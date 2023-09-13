@@ -1477,6 +1477,7 @@ const cardsContainer2 = {
 }
 
 
+
 function createNewCardContainer(page, cardInfo, card) {
     // Create Outer Container
     const cardContainer = document.createElement('div')
@@ -1580,27 +1581,87 @@ function switchPage(pageNum) {
     })
     document.querySelector(`.page-switch-${pageNum}`).classList.add('page-switch-active')
 }
-function killIframe() {
-    let iframe = document.querySelector('.iframe-container')
-    let iframeKiller = document.querySelector('.iframe-container-killer')
-    if (iframe) {
-        iframe.remove()
-        iframeKiller.remove()
-    }
+const iframeContainer = document.querySelector('.iframe-container')
+const iframe = document.querySelector('.iframe')
+function toggleIframe(){
+    iframeContainer.classList.toggle('hidden')
 }
 function openIframe(parent, card, section, name) {
-    killIframe()
     var pageCardsContainer
     if(parent == "page-1"){
         pageCardsContainer = cardsContainer1
     }else if(parent == "page-3"){
         pageCardsContainer = cardsContainer2
     }
-    document.body.innerHTML += `
+    toggleIframe()
+    document.querySelector('iframe.iframe').src = pageCardsContainer[card].sections[section][name]
+}
 
-        <div class="iframe-container">
-            <iframe class="iframe" src="${pageCardsContainer[card].sections[section][name]}" width="560" height="315" frameborder="0" allowfullscreen></iframe>
-            <div class="iframe-killer" onclick="killIframe()"></div>
-        </div>
-    `
+
+// Portable whiteboard
+// Define iframe and container
+const canvas = document.querySelector('.canvas')
+const canvasContainer = document.querySelector('.canvas-container')
+
+function toggleWhiteboard(){
+    canvasContainer.classList.toggle('hide-whiteboard')
+    canvasContainer.style.top = "10px"
+    canvasContainer.style.left = "100px"
+}
+
+// iframe resize observer
+const observer = new ResizeObserver(function(changes){
+    canvas.height = changes[0]['contentRect']['height']
+})
+observer.observe(canvasContainer)
+// Make the DIV element draggable:
+dragElement(document.querySelector('.canvas-container'));
+
+function dragElement(elmnt) {
+    var pos1 = 0, pos2 = 0, pos3 = 0, pos4 = 0;
+    if (document.querySelector('.canvas-container-header')) {
+        // if present, the header is where you move the DIV from:
+        document.querySelector('.canvas-container-header').onmousedown = dragMouseDown;
+    } else {
+        // move the DIV from anywhere inside the DIV:
+        elmnt.onmousedown = dragMouseDown;
+    }
+    function dragMouseDown(e) {
+        e = e || window.event;
+        e.preventDefault();
+        // get the mouse cursor position at startup:
+        pos3 = e.clientX;
+        pos4 = e.clientY;
+        document.onmouseup = closeDragElement;
+        // call a function whenever the cursor moves:
+        document.onmousemove = elementDrag;
+    }
+
+    function elementDrag(e) {
+        e = e || window.event;
+        e.preventDefault();
+        if(!canvas.classList.contains('canvas-unclickable')){
+            canvas.classList.add('canvas-unclickable')
+        }
+        if(!iframe.classList.contains('iframe-unclickable')){
+            iframe.classList.add('iframe-unclickable')
+        }
+        // calculate the new cursor position:
+        pos1 = pos3 - e.clientX;
+        pos2 = pos4 - e.clientY;
+        pos3 = e.clientX;
+        pos4 = e.clientY;
+        // set the element's new position:
+        elmnt.style.top = (elmnt.offsetTop - pos2) + "px";
+        elmnt.style.left = (elmnt.offsetLeft - pos1) + "px";
+    }
+
+    function closeDragElement() {
+        // stop moving when mouse button is released:
+        iframe.classList.remove('iframe-unclickable')
+        canvas.classList.remove('canvas-unclickable')
+
+        document.onmouseup = null;
+        document.onmousemove = null;
+    }
 }
