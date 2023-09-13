@@ -16,8 +16,82 @@ html body {
   align-items: center;
   flex-direction: column;
 }
+html body .whiteboard-toggle-button {
+  position: absolute;
+  top: 8px;
+  left: 15px;
+  height: 45px;
+  width: 50px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #7f7f7f;
+  transition: background-color 0.2s ease;
+  border-radius: 10px;
+  cursor: pointer;
+  z-index: 10;
+}
+html body .whiteboard-toggle-button:hover {
+  background-color: #424242;
+}
+html body .whiteboard-toggle-button img {
+  width: 30px;
+}
+html body .canvas-container {
+  direction: ltr;
+  width: 800px;
+  height: 500px;
+  position: absolute;
+  top: 10px;
+  left: 100px;
+  background-color: #424242;
+  border: #424242 5px solid;
+  border-top: none;
+  border-radius: 5px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding-top: 30px;
+  z-index: 9;
+}
+html body .canvas-container .canvas-container-header {
+  height: 30px;
+  width: 100%;
+  background-color: #424242;
+  position: absolute;
+  top: 0;
+  display: flex;
+  justify-content: end;
+  align-items: center;
+  padding-inline: 5px;
+  cursor: move;
+}
+html body .canvas-container .canvas-container-header .canvas-header-close-container {
+  width: 20px;
+  height: 20px;
+  background-color: #424242;
+  transition: background-color 0.2s ease;
+  border-radius: 100%;
+  color: #fff;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  cursor: pointer;
+}
+html body .canvas-container .canvas-container-header .canvas-header-close-container:hover {
+  background-color: #797878;
+}
+html body .canvas-container .canvas-container-header .canvas-header-close-container span {
+  margin-bottom: 4px;
+}
+html body .canvas-container .canvas {
+  width: inherit;
+}
+html body .hide-whiteboard {
+  display: none !important;
+}
 html body .hidden {
-  display: none;
+  display: none !important;
 }
 html body .iframe-container {
   position: fixed;

@@ -282,7 +282,7 @@ const cardsContainer1 = {
                 "شرح واجب 8 ملف 6": "https://www.youtube.com/embed/yCe3u0XhNGw?&modestbranding=1&rel=0&showinfo=0&loop=0&hl=en&enablejsapi=1&origin=https%3A%2F%2Ftiqdr.com&widgetid=9"
             },
             9: {
-                tag: ["video", "video"],
+                tag: ["test", "test"],
                 title: "اختبارات الأسبوع الخامس",
                 "اختبار الأسبوع السادس (مستوى متوسط)": "./testPages/beginning-tests/test-5/test-5-1.htm",
                 "اختبار الأسبوع السادس (مستوى متفوقين)": "./testPages/beginning-tests/test-5/test-5-2.htm",
@@ -295,7 +295,8 @@ const cardsContainer1 = {
             0: {
                 tag: ["file"],
                 title: "ملفات",
-                "ملف شرح الأسبوع السادس": "https://drive.google.com/file/d/1qEuiEAmxq7o4970RRi4tq2lkr3z7KPH9/view?usp=sharing"
+                "ملف شرح الأسبوع السادس": "https://drive.google.com/file/d/1qEuiEAmxq7o4970RRi4tq2lkr3z7KPH9/view?usp=sharing",
+                "ملف شرح الأسبوع السادس محلول": "https://drive.google.com/file/d/1Zxnz-N8OHX-EKiAFkcVf03ZJvV0T28Pr/view?usp=sharing",
             },
             1: {
                 tag: ["video", "video"],
@@ -312,15 +313,22 @@ const cardsContainer1 = {
             3: {
                 tag: ["video", "video"],
                 title: "محاضرة 3 تابع قوانين الاسس",
-                "فيديو شرح محاضرة 3 تابع قوانين الاسس": "https://www.youtube.com/embed/iG-6hZphFsE?&modestbranding=1&rel=0&showinfo=0&loop=0&hl=en&enablejsapi=1&origin=https%3A%2F%2Ftiqdr.com&widgetid=1",
-                "حل واجب محاضرة 3 ملف 7": "https://www.youtube.com/embed/Rr5mEJygqVM?&modestbranding=1&rel=0&showinfo=0&loop=0&hl=en&enablejsapi=1&origin=https%3A%2F%2Ftiqdr.com&widgetid=2",
+                "فيديو شرح محاضرة 3 تابع قوانين الاسس": "https://www.youtube.com/embed/iG-6hZphFsE?&modestbranding=1&rel=0&showinfo=0&loop=0&hl=en&enablejsapi=1&origin=https%3A%2F%2Ftiqdr.com&widgetid=2",
+                "حل واجب محاضرة 3 ملف 7": "https://www.youtube.com/embed/Rr5mEJygqVM?&modestbranding=1&rel=0&showinfo=0&loop=0&hl=en&enablejsapi=1&origin=https%3A%2F%2Ftiqdr.com&widgetid=3",
             },
             4:{
+                tag: ["video", "video"],
+                title: "محاضرة 4 تابع قوانين الاسس",
+                "فيديو شرح محاضرة 4 تابع الاسس": "https://www.youtube.com/embed/VOPs2GMawnY?&modestbranding=1&rel=0&showinfo=0&loop=0&hl=en&enablejsapi=1&origin=https%3A%2F%2Ftiqdr.com&widgetid=4",
+                "حل واجب محاضرة 4 ملف 7": "https://www.youtube.com/embed/8PiAlkTClOs?&modestbranding=1&rel=0&showinfo=0&loop=0&hl=en&enablejsapi=1&origin=https%3A%2F%2Ftiqdr.com&widgetid=5",
+            },
+            5:{
                 tag: ["video"],
                 title: "محاضرة 5 درس السرعة",
                 "شرح محاضرة 5 السرعة - المسافة - الزمن": "https://www.youtube.com/embed/BoPPSkDyIbE?&modestbranding=1&rel=0&showinfo=0&loop=0&hl=en&enablejsapi=1&origin=https%3A%2F%2Ftiqdr.com&widgetid=1",
+                "حل واجب محاضرة 5 ملف 7": "https://www.youtube.com/embed/OIQMiJMHeAo?&modestbranding=1&rel=0&showinfo=0&loop=0&hl=en&enablejsapi=1&origin=https%3A%2F%2Ftiqdr.com&widgetid=1",
             },
-            5:{
+            6:{
                 tag: ["test", "test"],
                 title: 'اختبار 1 و 2 على ملف 7 ( مستوى متوسط )',
                 "اختبار 1 على ملف 7 ( مستوى متوسط )": "./testPages/beginning-tests/test-6/test-6-1.htm",
@@ -329,7 +337,7 @@ const cardsContainer1 = {
         }
     },
     card7: {
-        title: "الأسبوع السابع",
+        title: "مراجعة شاملة",
         sections: {
             0: {
                 tag: ["video", "video", "video", "video", "video", "video", "test", "test", "test", "test"],
@@ -363,6 +371,7 @@ const cardsContainer1 = {
             },
             2:{
                 tag: ["test", "test", "test", "test"],
+                title: "اختبارات تأسيس",
                 "اختبار 15 عام على التأسيس": "./testPages/beginning-tests/test-7/test-7-11.htm",
                 "اختبار 16 عام على التأسيس": "./testPages/beginning-tests/test-7/test-7-12.htm",
                 "اختبار 17 عام على التأسيس": "./testPages/beginning-tests/test-7/test-7-13.htm",
@@ -371,7 +380,7 @@ const cardsContainer1 = {
         }
     },
     card8: {
-        title: "تجميعات شاملة",
+        title: "اختبارات شاملة",
         sections: {
             0: {
                 tag: ["test", "test"],
@@ -1487,7 +1496,7 @@ function createNewCardContainer(page, cardInfo, card) {
         // Loop inside the Elements
         let tagIndex = 0
         for (elmnt in cardInfo.sections[section]) {
-            if (cardInfo.sections[section].tag[tagIndex] == 'video' && elmnt != 'tag' && elmnt != 'title') {
+            if (((cardInfo.sections[section].tag[tagIndex] == 'video') | (cardInfo.sections[section].tag[tagIndex] == 'test')) && elmnt != 'tag' && elmnt != 'title') {
                 // Create Group Element
                 newSectionGroupContainer.innerHTML += `
                     <div class="group-element" onclick="openIframe('${page}', '${card}', '${section}', '${elmnt}')">
@@ -1498,7 +1507,7 @@ function createNewCardContainer(page, cardInfo, card) {
                     </div>
                 `
                 tagIndex++
-            } else if (!(cardInfo.sections[section].tag[tagIndex] == 'video') && elmnt != 'tag' && elmnt != 'title') {
+            } else if ((cardInfo.sections[section].tag[tagIndex] == 'file') && elmnt != 'tag' && elmnt != 'title') {
                 // Create Group Element
                 newSectionGroupContainer.innerHTML += `
                     <a href="${cardInfo.sections[section][elmnt]}" target="_blank">
@@ -1554,27 +1563,77 @@ function switchPage(pageNum) {
     })
     document.querySelector(`.page-switch-${pageNum}`).classList.add('page-switch-active')
 }
-function killIframe() {
-    let iframe = document.querySelector('.iframe-container')
-    let iframeKiller = document.querySelector('.iframe-container-killer')
-    if (iframe) {
-        iframe.remove()
-        iframeKiller.remove()
-    }
+function toggleIframe(){
+    const iframeContainer = document.querySelector('.iframe-container')
+    iframeContainer.classList.toggle('hidden')
 }
 function openIframe(parent, card, section, name) {
-    killIframe()
     var pageCardsContainer
     if(parent == "page-1"){
         pageCardsContainer = cardsContainer1
     }else if(parent == "page-3"){
         pageCardsContainer = cardsContainer2
     }
-    document.body.innerHTML += `
+    toggleIframe()
+    document.querySelector('iframe.iframe').src = pageCardsContainer[card].sections[section][name]
+}
 
-        <div class="iframe-container">
-            <iframe class="iframe" src="${pageCardsContainer[card].sections[section][name]}" width="560" height="315" frameborder="0" allowfullscreen></iframe>
-            <div class="iframe-killer" onclick="killIframe()"></div>
-        </div>
-    `
+
+// Portable whiteboard
+// Define iframe and container
+const canvas = document.querySelector('.canvas')
+const canvasContainer = document.querySelector('.canvas-container')
+
+function toggleWhiteboard(){
+    canvasContainer.classList.toggle('hide-whiteboard')
+    canvasContainer.style.top = "10px"
+    canvasContainer.style.left = "100px"
+}
+
+// iframe resize observer
+const observer = new ResizeObserver(function(changes){
+    canvas.height = changes[0]['contentRect']['height']
+})
+observer.observe(canvasContainer)
+// Make the DIV element draggable:
+dragElement(document.querySelector('.canvas-container'));
+
+function dragElement(elmnt) {
+    var pos1 = 0, pos2 = 0, pos3 = 0, pos4 = 0;
+    if (document.querySelector('.canvas-container-header')) {
+        // if present, the header is where you move the DIV from:
+        document.querySelector('.canvas-container-header').onmousedown = dragMouseDown;
+    } else {
+        // move the DIV from anywhere inside the DIV:
+        elmnt.onmousedown = dragMouseDown;
+    }
+    function dragMouseDown(e) {
+        e = e || window.event;
+        e.preventDefault();
+        // get the mouse cursor position at startup:
+        pos3 = e.clientX;
+        pos4 = e.clientY;
+        document.onmouseup = closeDragElement;
+        // call a function whenever the cursor moves:
+        document.onmousemove = elementDrag;
+    }
+
+    function elementDrag(e) {
+        e = e || window.event;
+        e.preventDefault();
+        // calculate the new cursor position:
+        pos1 = pos3 - e.clientX;
+        pos2 = pos4 - e.clientY;
+        pos3 = e.clientX;
+        pos4 = e.clientY;
+        // set the element's new position:
+        elmnt.style.top = (elmnt.offsetTop - pos2) + "px";
+        elmnt.style.left = (elmnt.offsetLeft - pos1) + "px";
+    }
+
+    function closeDragElement() {
+        // stop moving when mouse button is released:
+        document.onmouseup = null;
+        document.onmousemove = null;
+    }
 }
