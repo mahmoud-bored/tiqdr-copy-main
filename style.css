@@ -86,6 +86,10 @@ html body .canvas-container .canvas-container-header .canvas-header-close-contai
 }
 html body .canvas-container .canvas {
   width: inherit;
+  pointer-events: unset;
+}
+html body .canvas-container .canvas-unclickable {
+  pointer-events: none !important;
 }
 html body .hide-whiteboard {
   display: none !important;
@@ -111,6 +115,10 @@ html body .iframe-container .iframe {
   border-radius: 10px;
   z-index: 4;
   background-color: #333;
+  pointer-events: unset;
+}
+html body .iframe-container .iframe-unclickable {
+  pointer-events: none !important;
 }
 html body .iframe-container .iframe-killer {
   position: fixed;

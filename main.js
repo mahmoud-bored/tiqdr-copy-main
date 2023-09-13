@@ -1563,8 +1563,9 @@ function switchPage(pageNum) {
     })
     document.querySelector(`.page-switch-${pageNum}`).classList.add('page-switch-active')
 }
+const iframeContainer = document.querySelector('.iframe-container')
+const iframe = document.querySelector('.iframe')
 function toggleIframe(){
-    const iframeContainer = document.querySelector('.iframe-container')
     iframeContainer.classList.toggle('hidden')
 }
 function openIframe(parent, card, section, name) {
@@ -1621,6 +1622,12 @@ function dragElement(elmnt) {
     function elementDrag(e) {
         e = e || window.event;
         e.preventDefault();
+        if(!canvas.classList.contains('canvas-unclickable')){
+            canvas.classList.add('canvas-unclickable')
+        }
+        if(!iframe.classList.contains('iframe-unclickable')){
+            iframe.classList.add('iframe-unclickable')
+        }
         // calculate the new cursor position:
         pos1 = pos3 - e.clientX;
         pos2 = pos4 - e.clientY;
@@ -1633,6 +1640,9 @@ function dragElement(elmnt) {
 
     function closeDragElement() {
         // stop moving when mouse button is released:
+        iframe.classList.remove('iframe-unclickable')
+        canvas.classList.remove('canvas-unclickable')
+
         document.onmouseup = null;
         document.onmousemove = null;
     }
