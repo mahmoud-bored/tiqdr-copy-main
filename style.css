@@ -17,7 +17,7 @@ html body {
   flex-direction: column;
 }
 html body .whiteboard-toggle-button {
-  position: absolute;
+  position: fixed;
   top: 8px;
   left: 15px;
   height: 45px;
