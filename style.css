@@ -39,9 +39,11 @@ html body .whiteboard-toggle-button img {
 }
 html body .canvas-container {
   direction: ltr;
+  max-width: 95%;
   width: 800px;
+  max-height: 95%;
   height: 500px;
-  position: absolute;
+  position: fixed;
   top: 10px;
   left: 100px;
   background-color: #424242;

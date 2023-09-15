@@ -1584,6 +1584,7 @@ function switchPage(pageNum) {
 const iframeContainer = document.querySelector('.iframe-container')
 const iframe = document.querySelector('.iframe')
 function toggleIframe(){
+    document.querySelector('iframe.iframe').src = " "
     iframeContainer.classList.toggle('hidden')
 }
 function openIframe(parent, card, section, name) {
