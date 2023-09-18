@@ -279,7 +279,7 @@ const cardsContainer1 = {
                 tag: ["video", "video"],
                 title: "محاضرة 6 تابع الكسور",
                 "شرح محاضرة 6 تابع الكسور": "https://www.youtube.com/embed/w_BO-Wify0E?&modestbranding=1&rel=0&showinfo=0&loop=0&hl=en&enablejsapi=1&origin=https%3A%2F%2Ftiqdr.com&widgetid=2",
-                "شرح واجب محاضرة 6 ملف 6": "https://www.youtube.com/embed/dcd8g-Cu4Sc?&modestbranding=1&rel=0&showinfo=0&loop=0&hl=en&enablejsapi=1&origin=https%3A%2F%2Ftiqdr.com&widgetid=3",
+                "شرح واجب محاضرة 6 ملف 6": "https://www.youtube.com/embed/DUBLMjtTK3M?modestbranding=1&rel=0&showinfo=0&loop=0&hl=en&enablejsapi=1&origin=https%3A%2F%2Ftiqdr.com&widgetid=1",
             },
             7: {
                 tag: ["video", "video"],
