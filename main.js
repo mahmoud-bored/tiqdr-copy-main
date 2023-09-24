@@ -279,7 +279,7 @@ const cardsContainer1 = {
                 tag: ["video", "video"],
                 title: "محاضرة 6 تابع الكسور",
                 "شرح محاضرة 6 تابع الكسور": "https://www.youtube.com/embed/w_BO-Wify0E?&modestbranding=1&rel=0&showinfo=0&loop=0&hl=en&enablejsapi=1&origin=https%3A%2F%2Ftiqdr.com&widgetid=2",
-                "شرح واجب محاضرة 6 ملف 6": "https://www.youtube.com/embed/DUBLMjtTK3M?modestbranding=1&rel=0&showinfo=0&loop=0&hl=en&enablejsapi=1&origin=https%3A%2F%2Ftiqdr.com&widgetid=1",
+                "شرح واجب محاضرة 6 ملف 6": "https://www.youtube.com/embed/dcd8g-Cu4Sc?&modestbranding=1&rel=0&showinfo=0&loop=0&hl=en&enablejsapi=1&origin=https%3A%2F%2Ftiqdr.com&widgetid=3",
             },
             7: {
                 tag: ["video", "video"],
@@ -335,7 +335,7 @@ const cardsContainer1 = {
                 "حل واجب محاضرة 4 ملف 7": "https://www.youtube.com/embed/8PiAlkTClOs?&modestbranding=1&rel=0&showinfo=0&loop=0&hl=en&enablejsapi=1&origin=https%3A%2F%2Ftiqdr.com&widgetid=5",
             },
             5:{
-                tag: ["video"],
+                tag: ["video", "video"],
                 title: "محاضرة 5 درس السرعة",
                 "شرح محاضرة 5 السرعة - المسافة - الزمن": "https://www.youtube.com/embed/BoPPSkDyIbE?&modestbranding=1&rel=0&showinfo=0&loop=0&hl=en&enablejsapi=1&origin=https%3A%2F%2Ftiqdr.com&widgetid=1",
                 "حل واجب محاضرة 5 ملف 7": "https://www.youtube.com/embed/OIQMiJMHeAo?&modestbranding=1&rel=0&showinfo=0&loop=0&hl=en&enablejsapi=1&origin=https%3A%2F%2Ftiqdr.com&widgetid=1",
