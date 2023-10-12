@@ -14,7 +14,7 @@ html
         align-items: center
         flex-direction: column
         .whiteboard-toggle-button
-            position: absolute
+            position: fixed
             top: 8px
             left: 15px
             height: 45px
@@ -33,9 +33,11 @@ html
                 width: 30px
         .canvas-container
             direction: ltr
+            max-width: 95%
             width: 800px
+            max-height: 95%
             height: 500px
-            position: absolute
+            position: fixed
             top: 10px
             left: 100px
             background-color: $border-color
@@ -54,7 +56,7 @@ html
                 position: absolute
                 top: 0
                 display: flex
-                justify-content: end
+                justify-content: flex-end
                 align-items: center
                 padding-inline: 5px
                 cursor: move
@@ -75,6 +77,9 @@ html
                         margin-bottom: 4px
             .canvas
                 width: inherit
+                pointer-events: unset
+            .canvas-unclickable
+                pointer-events: none !important
         .hide-whiteboard
             display: none !important
         .hidden
@@ -96,6 +101,9 @@ html
                 border-radius: 10px
                 z-index: 4
                 background-color: #333
+                pointer-events: unset
+            .iframe-unclickable
+                pointer-events: none !important
             .iframe-killer
                 position: fixed
                 top: 0
@@ -116,16 +124,14 @@ html
             padding: 0 40px 0 20px
             box-shadow: 0px 3px 5px 0px rgba(0,0,0,0.47)
             z-index: 1
-            
-
             .header-title-container
                 display: flex
                 justify-content: center
                 width: 100%
-                h1
-                    color: #fe6602
-                    font-weight: bold
-                    margin-bottom: 11px
+                margin-left: 50px
+                img
+                    height: 50px
+                    border-radius: 10px
             .page-switchers-container
                 width: 220px
                 height: 35px

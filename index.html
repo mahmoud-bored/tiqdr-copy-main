@@ -7,12 +7,15 @@
     <title>Tiqdar Copy</title>
 </head>
 <body>
+
     <div class="whiteboard-toggle-button" onclick="toggleWhiteboard()">
         <img src="https://i.ibb.co/93Px4FS/eye.png">    
     </div>
+
+
     <header>
         <div class="header-title-container">
-            <h1>متقدرش</h1>
+            <img src="./assets/Personal-Logo.png">
         </div>
         
         <div class="page-switchers-container">
@@ -21,9 +24,14 @@
             <div class="page-switch page-switch-3" onclick="switchPage('3')">منجز 2</div>
         </div>
     </header>
+
+    
     <main class="page-1"></main>
     <main class="page-2 hidden"></main>
     <main class="page-3 hidden"></main>
+
+
+
     <div class="canvas-container hide-whiteboard" style="resize: both; overflow: auto">
         <div class="canvas-container-header">
             <div class="canvas-header-close-container" onclick="toggleWhiteboard()">
@@ -32,10 +40,16 @@
         </div>
         <iframe class="canvas" src="https://mahmoud-bored.github.io/whiteboard/" frameborder="0"></iframe>
     </div>
+
+
+
     <div class="iframe-container hidden">
         <iframe class="iframe" src="" frameborder="0" allowfullscreen></iframe>
         <div class="iframe-killer" onclick="toggleIframe()"></div>
     </div>
+
+
+
     <script src="./main.js"></script>
 </body>
 </html>

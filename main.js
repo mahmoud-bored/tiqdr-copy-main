@@ -3,9 +3,10 @@ const cardsContainer1 = {
         title: "الأسبوع الأول",
         sections: {
             0: {
-                tag: ["video"],
-                title: "فيديوهات",
+                tag: ["file", "file"],
+                title: "ملفات",
                 "ملف شرح الأسبوع الأول": "https://drive.google.com/file/d/1oH9snHZpBuCCn0XvlAFXGtHBa0URoXLc/view?usp=sharing",
+                "ملف شرح الأسبوع الأول محلول": "https://drive.google.com/file/d/1-OZBE4ldKSmQCy7a80drz10FsEXgLAuJ/view?usp=sharing",
             },
             1: {
                 tag: ["video", "video", "video", 'video'],
@@ -50,9 +51,10 @@ const cardsContainer1 = {
         title: "الأسبوع الثاني",
         sections: {
             0: {
-                tag: ["file"],
+                tag: ["file", "file"],
                 title: "ملفات",
                 "ملف شرح الأسبوع الثاني": "https://drive.google.com/file/d/1qAh77DFhG2rk79O9c0ruStKleYrXpobo/view?usp=sharing",
+                "ملف شرح الأسبوع الثاني محلول": "https://drive.google.com/file/d/1D9ZrfbFmJrVNxpZnimj3ue7kGV6tFLTD/view?usp=sharing",
             },
             1: {
                 tag: ["video", 'video'],
@@ -98,9 +100,10 @@ const cardsContainer1 = {
         title: "الأسبوع الثالث",
         sections: {
             0: {
-                tag: ["file"],
+                tag: ["file", "file"],
                 title: "ملفات",
-                "ملف شرح الأسبوع الثالث": "https://drive.google.com/file/d/1VsKax-ybaqlBYpcaHVA_oBMZZKDickgQ/view?usp=sharing"
+                "ملف شرح الأسبوع الثالث": "https://drive.google.com/file/d/1VsKax-ybaqlBYpcaHVA_oBMZZKDickgQ/view?usp=sharing",
+                "ملف شرح الأسبوع الثالث محلول": "https://drive.google.com/file/d/1yvKyyP8VUs7zWJOnTTzbaHpU6YbCjfSt/view?usp=sharing",
             },
             1: {
                 tag: ["video", "video"],
@@ -170,9 +173,10 @@ const cardsContainer1 = {
         title: "الأسبوع الرابع",
         sections: {
             0: {
-                tag: ["file"],
+                tag: ["file", "file"],
                 title: "ملفات",
                 "ملف شرح الأسبوع الرابع": "https://drive.google.com/file/d/1mOEOgWGn8VxAaEmS16NK_wYevo2dVo_W/view?usp=sharing",
+                "ملف شرح الأسبوع الرابع محلول": "https://drive.google.com/file/d/1qbU-buij-6rbRllgPqmavYztNP5ndM2s/view?usp=sharing",
             },
             1: {
                 tag: ["video", "video"],
@@ -214,8 +218,15 @@ const cardsContainer1 = {
                 tag: ["video", "video"],
                 title: 'محاضرة 3 الرسم لحل تمارين الكسور',
                 "شرح طريقة الرسم لحل تمارين الكسور": "https://www.youtube.com/embed/OJKwO8QqKsQ?&modestbranding=1&rel=0&showinfo=0&loop=0&hl=en&enablejsapi=1&origin=https%3A%2F%2Ftiqdr.com&widgetid=7",
+                "واجب محاضرة 3 ملف 5": "https://www.youtube.com/embed/hmO-WN-gY5g?&modestbranding=1&rel=0&showinfo=0&loop=0&hl=en&enablejsapi=1&origin=https%3A%2F%2Ftiqdr.com&widgetid=1"
             },
             8:{
+                tag: ["video", "video"],
+                title: "محاضرة 4 تمارين هامة من النماذج الجديدة",
+                "تمارين هامة من النمذج الجديدة": "https://www.youtube.com/embed/XB3Uo_4gbxs?&modestbranding=1&rel=0&showinfo=0&loop=0&hl=en&enablejsapi=1&origin=https%3A%2F%2Ftiqdr.com&widgetid=2",
+                "واجب محاضرة 4 ملف 5": "https://www.youtube.com/embed/M1STr2qRIkg?&modestbranding=1&rel=0&showinfo=0&loop=0&hl=en&enablejsapi=1&origin=https%3A%2F%2Ftiqdr.com&widgetid=3",
+            },
+            9:{
                 tag: ["test", "video", "test", "video"],
                 title: "اختبار 1 و 2 على ملف 4 و 5",
                 "اختبار 1 على ملف 4 و 5 ( مستوى متوسط )": "./testPages/beginning-tests/test-4/test-4-1.htm",
@@ -229,9 +240,10 @@ const cardsContainer1 = {
         title: "الأسبوع الخامس",
         sections: {
             0: {
-                tag: ["file"],
+                tag: ["file", "file"],
                 title: "ملفات",
                 "ملف شرح الأسبوع الخامس": "https://drive.google.com/file/d/1wiFYD81OikQqQ_VnIgWO2QnpJcpKtqWB/view?usp=sharing",
+                "ملف شرح الأسبوع الخامس محلول": "https://drive.google.com/file/d/1me-xp09EOpxLYXWRww7b9n0EuBNw0Fny/view?usp=sharing",
             },
             1: {
                 tag: ["video", "video"],
@@ -293,7 +305,7 @@ const cardsContainer1 = {
         title: "الأسبوع السادس",
         sections: {
             0: {
-                tag: ["file"],
+                tag: ["file", "file"],
                 title: "ملفات",
                 "ملف شرح الأسبوع السادس": "https://drive.google.com/file/d/1qEuiEAmxq7o4970RRi4tq2lkr3z7KPH9/view?usp=sharing",
                 "ملف شرح الأسبوع السادس محلول": "https://drive.google.com/file/d/1Zxnz-N8OHX-EKiAFkcVf03ZJvV0T28Pr/view?usp=sharing",
@@ -323,7 +335,7 @@ const cardsContainer1 = {
                 "حل واجب محاضرة 4 ملف 7": "https://www.youtube.com/embed/8PiAlkTClOs?&modestbranding=1&rel=0&showinfo=0&loop=0&hl=en&enablejsapi=1&origin=https%3A%2F%2Ftiqdr.com&widgetid=5",
             },
             5:{
-                tag: ["video"],
+                tag: ["video", "video"],
                 title: "محاضرة 5 درس السرعة",
                 "شرح محاضرة 5 السرعة - المسافة - الزمن": "https://www.youtube.com/embed/BoPPSkDyIbE?&modestbranding=1&rel=0&showinfo=0&loop=0&hl=en&enablejsapi=1&origin=https%3A%2F%2Ftiqdr.com&widgetid=1",
                 "حل واجب محاضرة 5 ملف 7": "https://www.youtube.com/embed/OIQMiJMHeAo?&modestbranding=1&rel=0&showinfo=0&loop=0&hl=en&enablejsapi=1&origin=https%3A%2F%2Ftiqdr.com&widgetid=1",
@@ -337,9 +349,14 @@ const cardsContainer1 = {
         }
     },
     card7: {
-        title: "مراجعة شاملة",
+        title: "مراجعة التأسيس",
         sections: {
-            0: {
+            0:{
+                tag: ["file"],
+                title: "ملفات",
+                "ملخص قوانين دورة التأسيس": "https://drive.google.com/file/d/1cJAVce2Xo7PYBmriYk6peiHPIZRKYdQ2/view?usp=sharing",
+            },
+            1: {
                 tag: ["video", "video", "video", "video", "video", "video", "test", "test", "test", "test"],
                 title: "مراجعة التاسيس",
                 "محاضرة 1 مراجعة التاسيس": "https://www.youtube.com/embed/uz4xNNBbnBs?&modestbranding=1&rel=0&showinfo=0&loop=0&&hl=en&enablejsapi=1&origin=https%3A%2F%2Ftiqdr.com&widgetid=1",
@@ -353,7 +370,7 @@ const cardsContainer1 = {
                 "اختبار 3 على التأسيس": "./testPages/beginning-tests/test-7/test-7-3.htm",
                 "اختبار 4 على التأسيس": "./testPages/beginning-tests/test-7/test-7-4.htm",
             },
-            1:{
+            2:{
                 tag: ["video", "video", "video", "video", "video", "video", "test", "test", "test", "test", "test", "test"],
                 title: "مراجعة التأسيس",
                 "محاضرة 7 مراجعة تاسيس": "https://www.youtube.com/embed/SVNRlXrDhsQ?&modestbranding=1&rel=0&showinfo=0&loop=0&&hl=en&enablejsapi=1&origin=https%3A%2F%2Ftiqdr.com&widgetid=7",
@@ -369,7 +386,7 @@ const cardsContainer1 = {
                 "اختبار 3 على الهندسة": "./testPages/beginning-tests/test-7/test-7-9.htm",
                 "اختبار 4 على الهندسة": "./testPages/beginning-tests/test-7/test-7-10.htm",
             },
-            2:{
+            3:{
                 tag: ["test", "test", "test", "test"],
                 title: "اختبارات تأسيس",
                 "اختبار 15 عام على التأسيس": "./testPages/beginning-tests/test-7/test-7-11.htm",
@@ -1460,6 +1477,7 @@ const cardsContainer2 = {
 }
 
 
+
 function createNewCardContainer(page, cardInfo, card) {
     // Create Outer Container
     const cardContainer = document.createElement('div')
@@ -1563,8 +1581,10 @@ function switchPage(pageNum) {
     })
     document.querySelector(`.page-switch-${pageNum}`).classList.add('page-switch-active')
 }
+const iframeContainer = document.querySelector('.iframe-container')
+const iframe = document.querySelector('.iframe')
 function toggleIframe(){
-    const iframeContainer = document.querySelector('.iframe-container')
+    document.querySelector('iframe.iframe').src = " "
     iframeContainer.classList.toggle('hidden')
 }
 function openIframe(parent, card, section, name) {
@@ -1621,6 +1641,12 @@ function dragElement(elmnt) {
     function elementDrag(e) {
         e = e || window.event;
         e.preventDefault();
+        if(!canvas.classList.contains('canvas-unclickable')){
+            canvas.classList.add('canvas-unclickable')
+        }
+        if(!iframe.classList.contains('iframe-unclickable')){
+            iframe.classList.add('iframe-unclickable')
+        }
         // calculate the new cursor position:
         pos1 = pos3 - e.clientX;
         pos2 = pos4 - e.clientY;
@@ -1633,6 +1659,9 @@ function dragElement(elmnt) {
 
     function closeDragElement() {
         // stop moving when mouse button is released:
+        iframe.classList.remove('iframe-unclickable')
+        canvas.classList.remove('canvas-unclickable')
+
         document.onmouseup = null;
         document.onmousemove = null;
     }
