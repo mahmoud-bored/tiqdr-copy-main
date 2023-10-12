@@ -212,10 +212,13 @@ html body main .flex-container .card-outer-container .title-container {
   display: flex;
   justify-content: center;
   align-items: center;
-  background-color: #fe6602;
+  background-color: #a49574;
   border-radius: 50px;
   position: absolute;
   top: -25px;
+}
+html body main .flex-container .card-outer-container .title-container h3 {
+  text-shadow: #000 3px 3px 8px;
   color: #fff;
   text-align: center;
 }
@@ -231,6 +234,7 @@ html body main .flex-container .card-outer-container .card-inner-container {
   max-width: 350px;
   background-color: #333;
   padding-top: 20px;
+  border: 2px solid #a4987d;
 }
 html body main .flex-container .card-outer-container .card-inner-container .group-section-container {
   width: 90%;
@@ -241,7 +245,7 @@ html body main .flex-container .card-outer-container .card-inner-container .grou
   font-size: 1.1em;
   font-family: "nashra-variable", sans-serif;
   font-variation-settings: "wght" 300;
-  color: #fff;
+  color: #dfd0ad;
 }
 html body main .flex-container .card-outer-container .card-inner-container .group-section-container .group-elements-container {
   margin-right: 5px;
@@ -258,10 +262,14 @@ html body main .flex-container .card-outer-container .card-inner-container .grou
   font-variation-settings: "wght" 400;
   background-color: #222;
   color: #fff;
-  transition: background-color 0.3s ease;
+  transition: background-color 0.2s ease, color 0.2s ease;
 }
-html body main .flex-container .card-outer-container .card-inner-container .group-section-container .group-elements-container .group-element:hover {
-  background-color: #0d995f;
+@media (hover: hover) {
+  html body main .flex-container .card-outer-container .card-inner-container .group-section-container .group-elements-container .group-element:hover {
+    background-color: #a49574;
+    color: #333;
+    font-weight: 600;
+  }
 }
 html body main .flex-container .card-outer-container .card-inner-container .group-section-container .group-elements-container .group-element .group-element-tag img {
   width: 30px;

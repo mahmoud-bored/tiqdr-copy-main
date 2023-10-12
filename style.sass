@@ -184,12 +184,14 @@ html
                         display: flex
                         justify-content: center
                         align-items: center
-                        background-color: #fe6602
+                        background-color: #a49574
                         border-radius: 50px
                         position: absolute
                         top: -25px
-                        color: #fff
-                        text-align: center
+                        h3
+                            text-shadow: #000 3px 3px 8px
+                            color: #fff
+                            text-align: center
                     .card-inner-container
                         display: flex
                         align-items: center
@@ -201,6 +203,7 @@ html
                         max-width: 350px
                         background-color: #333
                         padding-top: 20px
+                        border: 2px solid #a4987d
                         .group-section-container
                             width: 90%
                             margin-top: 20px
@@ -209,7 +212,7 @@ html
                                 font-size: 1.1em
                                 font-family: "nashra-variable",sans-serif
                                 font-variation-settings: 'wght' 300
-                                color: #fff
+                                color: #dfd0ad
                             .group-elements-container
                                 margin-right: 5px
                                 .group-element
@@ -224,9 +227,12 @@ html
                                     font-variation-settings: 'wght' 400
                                     background-color: #222
                                     color: #fff
-                                    transition: background-color 0.3s ease
-                                    &:hover
-                                        background-color: #0d995f
+                                    transition: background-color 0.2s ease, color 0.2s ease
+                                    @media ( hover : hover )
+                                        &:hover
+                                            background-color: #a49574
+                                            color: #333
+                                            font-weight: 600
                                     .group-element-tag
                                         img
                                             width: 30px
