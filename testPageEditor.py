@@ -1,4 +1,4 @@
-pageSrc = "./testPages/beginning-tests/test-8/test-8-3-2.htm"
+pageSrc = "./testPages/versions/exam-version-10/exam-version-10.htm"
 with open(pageSrc, 'rb+') as fh:
     fh.seek(-15, 2)
     fh.truncate()

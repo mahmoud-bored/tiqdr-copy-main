@@ -220,13 +220,13 @@ const cardsContainer1 = {
                 "شرح طريقة الرسم لحل تمارين الكسور": "https://www.youtube.com/embed/OJKwO8QqKsQ?&modestbranding=1&rel=0&showinfo=0&loop=0&hl=en&enablejsapi=1&origin=https%3A%2F%2Ftiqdr.com&widgetid=7",
                 "واجب محاضرة 3 ملف 5": "https://www.youtube.com/embed/hmO-WN-gY5g?&modestbranding=1&rel=0&showinfo=0&loop=0&hl=en&enablejsapi=1&origin=https%3A%2F%2Ftiqdr.com&widgetid=1"
             },
-            8:{
+            8: {
                 tag: ["video", "video"],
                 title: "محاضرة 4 تمارين هامة من النماذج الجديدة",
                 "تمارين هامة من النمذج الجديدة": "https://www.youtube.com/embed/XB3Uo_4gbxs?&modestbranding=1&rel=0&showinfo=0&loop=0&hl=en&enablejsapi=1&origin=https%3A%2F%2Ftiqdr.com&widgetid=2",
                 "واجب محاضرة 4 ملف 5": "https://www.youtube.com/embed/M1STr2qRIkg?&modestbranding=1&rel=0&showinfo=0&loop=0&hl=en&enablejsapi=1&origin=https%3A%2F%2Ftiqdr.com&widgetid=3",
             },
-            9:{
+            9: {
                 tag: ["test", "video", "test", "video"],
                 title: "اختبار 1 و 2 على ملف 4 و 5",
                 "اختبار 1 على ملف 4 و 5 ( مستوى متوسط )": "./testPages/beginning-tests/test-4/test-4-1.htm",
@@ -328,19 +328,19 @@ const cardsContainer1 = {
                 "فيديو شرح محاضرة 3 تابع قوانين الاسس": "https://www.youtube.com/embed/iG-6hZphFsE?&modestbranding=1&rel=0&showinfo=0&loop=0&hl=en&enablejsapi=1&origin=https%3A%2F%2Ftiqdr.com&widgetid=2",
                 "حل واجب محاضرة 3 ملف 7": "https://www.youtube.com/embed/Rr5mEJygqVM?&modestbranding=1&rel=0&showinfo=0&loop=0&hl=en&enablejsapi=1&origin=https%3A%2F%2Ftiqdr.com&widgetid=3",
             },
-            4:{
+            4: {
                 tag: ["video", "video"],
                 title: "محاضرة 4 تابع قوانين الاسس",
                 "فيديو شرح محاضرة 4 تابع الاسس": "https://www.youtube.com/embed/VOPs2GMawnY?&modestbranding=1&rel=0&showinfo=0&loop=0&hl=en&enablejsapi=1&origin=https%3A%2F%2Ftiqdr.com&widgetid=4",
                 "حل واجب محاضرة 4 ملف 7": "https://www.youtube.com/embed/8PiAlkTClOs?&modestbranding=1&rel=0&showinfo=0&loop=0&hl=en&enablejsapi=1&origin=https%3A%2F%2Ftiqdr.com&widgetid=5",
             },
-            5:{
+            5: {
                 tag: ["video", "video"],
                 title: "محاضرة 5 درس السرعة",
                 "شرح محاضرة 5 السرعة - المسافة - الزمن": "https://www.youtube.com/embed/BoPPSkDyIbE?&modestbranding=1&rel=0&showinfo=0&loop=0&hl=en&enablejsapi=1&origin=https%3A%2F%2Ftiqdr.com&widgetid=1",
                 "حل واجب محاضرة 5 ملف 7": "https://www.youtube.com/embed/OIQMiJMHeAo?&modestbranding=1&rel=0&showinfo=0&loop=0&hl=en&enablejsapi=1&origin=https%3A%2F%2Ftiqdr.com&widgetid=1",
             },
-            6:{
+            6: {
                 tag: ["test", "test"],
                 title: 'اختبار 1 و 2 على ملف 7 ( مستوى متوسط )',
                 "اختبار 1 على ملف 7 ( مستوى متوسط )": "./testPages/beginning-tests/test-6/test-6-1.htm",
@@ -351,7 +351,7 @@ const cardsContainer1 = {
     card7: {
         title: "مراجعة التأسيس",
         sections: {
-            0:{
+            0: {
                 tag: ["file"],
                 title: "ملفات",
                 "ملخص قوانين دورة التأسيس": "https://drive.google.com/file/d/1cJAVce2Xo7PYBmriYk6peiHPIZRKYdQ2/view?usp=sharing",
@@ -370,7 +370,7 @@ const cardsContainer1 = {
                 "اختبار 3 على التأسيس": "./testPages/beginning-tests/test-7/test-7-3.htm",
                 "اختبار 4 على التأسيس": "./testPages/beginning-tests/test-7/test-7-4.htm",
             },
-            2:{
+            2: {
                 tag: ["video", "video", "video", "video", "video", "video", "test", "test", "test", "test", "test", "test"],
                 title: "مراجعة التأسيس",
                 "محاضرة 7 مراجعة تاسيس": "https://www.youtube.com/embed/SVNRlXrDhsQ?&modestbranding=1&rel=0&showinfo=0&loop=0&&hl=en&enablejsapi=1&origin=https%3A%2F%2Ftiqdr.com&widgetid=7",
@@ -386,7 +386,7 @@ const cardsContainer1 = {
                 "اختبار 3 على الهندسة": "./testPages/beginning-tests/test-7/test-7-9.htm",
                 "اختبار 4 على الهندسة": "./testPages/beginning-tests/test-7/test-7-10.htm",
             },
-            3:{
+            3: {
                 tag: ["test", "test", "test", "test"],
                 title: "اختبارات تأسيس",
                 "اختبار 15 عام على التأسيس": "./testPages/beginning-tests/test-7/test-7-11.htm",
@@ -421,6 +421,679 @@ const cardsContainer1 = {
     },
 }
 
+
+
+
+
+
+//
+//
+//    /////////            /////////  
+//    //       //        //        //
+//    //        //                  //
+//    //       //                  //
+//    /////////                  //
+//    //                       //
+//    //                     //   
+//    //                   //       
+//    //                 //        
+//    //                /////////////
+//    
+//
+
+
+
+const cardsContainer2 = {
+    card1: {
+        title: "الإصدارات من 1 إلى 3",
+        sections: {
+            "0": {
+                "tag": ["file", "file", "video", "video", "video", "test"],
+                "title": "الاصدار الاول من بنك اسئلة قياس الجديد",
+                "notes": {
+                    "0": {
+                        "type": "text",
+                        "text": "محاضرة تمهيدية يجب الاستماع اليها جيدا قبل بدأ الدورة "
+                    },
+                    "1": {
+                        "type": "text",
+                        "text": ""
+                    }
+                },
+                "ملف الاصدار الاول من بنك اسئلة قياس الجديد غير محلول": "https://drive.google.com/file/d/1Gi6jHDdXyGGjDpJqOf9h01fpwgDvvqya/preview",
+                "ملف الاصدار الاول من بنك اسئلة قياس الجديد محلول": "https://drive.google.com/file/d/1JQieoyDaV6nbvf0rsX461r4mcvBkNqzf/preview",
+                "فيديو 1 شرح التمارين من 1 الى 25": "http://www.youtube.com/embed/gfo3CB-hvbM",
+                "فيديو 2 شرح التمارين من 26 الى 50": "http://www.youtube.com/embed/QrB_e5j2V7U",
+                "فيديو 3 شرح التمارين من 51 الى 73": "http://www.youtube.com/embed/qkSOHftFKBo",
+                "اختبار على الإصدار الأول": "./testPages/versions/exam-version-1/exam-version-1.htm"
+            },
+            "1": {
+                "tag": ["file", "file", "video", "video", "test"],
+                "title": "الاصدار الثاني من بنك اسئلة قياس الجديد",
+                "notes": {},
+                "ملف الاصدار الثاني من بنك اسئلة قياس الجديد غير محلول": "https://drive.google.com/file/d/1O7b8g2Om1wVvGpeU40pTFAcdLO1sVXr5/preview",
+                "ملف الاصدار الثاني من بنك اسئلة قياس الجديد محلول": "https://drive.google.com/file/d/1D_ztvrn1xMXn_oYZR_eo0FVBSrardgnw/preview",
+                "فيديو 4 شرح الاصدار الثاني": "http://www.youtube.com/embed/q_hGTyftEvk",
+                "فيديو 5 تابع شرح الاصدار الثاني": "http://www.youtube.com/embed/X1Iq-OsLs7c",
+                "اختبار على الإصدار الثاني": "./testPages/versions/exam-version-2/exam-version-2.htm",
+            },
+            "2": {
+                "tag": ["file", "file", "video", "video"],
+                "title": "الاصدار الثالث من بنك اسئلة قياس الجديد",
+                "notes": {},
+                "ملف الاصدار الثالث من بنك اسئلة قياس الجديد غير محلول": "https://drive.google.com/file/d/1PP8ynv90wgPnOZMtGZHguHLPhpLAkgfc/preview",
+                "ملف الاصدار الثالث من بنك اسئلة قياس الجديد محلول": "https://drive.google.com/file/d/1u1uocGR6XqNZluSWFyp6EcSHYsbbFkNm/preview",
+                "فيديو 6 شرح الاصدار ااثالث": "http://www.youtube.com/embed/jS22_CJUJHc",
+                "فيديو 7 تابع شرح الاصدار الثالث": "http://www.youtube.com/embed/joMok5Pl2YQ",
+                "اختبار على الإصدار الثالث": "./testPages/versions/exam-version-3/exam-version-3.htm",
+            }
+        }
+    },
+    card2: {
+        title: "الإصدارات من 4 إلى 6",
+        sections: {
+            "0": {
+                "tag": [
+                    "file",
+                    "file",
+                    "video",
+                    "video",
+                    "video",
+                    "video",
+                    "video",
+                    "test"
+                ],
+                "title": "الاصدار الرابع و الخامس من النماذج الجديدة",
+                " ملف الاصدار الرابع و الخامس من النماذج الجديدة غير محلول": "https://drive.google.com/file/d/1vAtPoVrvdHTHxF0QZrZX2Cu6J8SxijbS/preview",
+                " ملف الاصدار الرابع و الخامس من النماذج الجديدة محلول": "https://drive.google.com/file/d/1AH2L3lsw1TZNYIm4U1-v3t_yRuhHuTrK/preview",
+                "notes": {
+                    "0": {
+                        "type": "text",
+                        "text": "ملحوظة "
+                    },
+                    "1": {
+                        "type": "text",
+                        "text": "تم تصحيح سؤال 242  لتصبح الاجابة الصحيحة  3"
+                    },
+                    "2": {
+                        "type": "text",
+                        "text": "تم تصحيح سؤال 244  انظر ملف pdf  المحلول "
+                    }
+                },
+                " فيديو 8 شرح الاصدار الرابع و الخامس": "http://www.youtube.com/embed/LCzV8jpUJ-w",
+                " فيديو 9 شرح الاصدار الرابع و الخامس": "http://www.youtube.com/embed/V7d0on-XvvY",
+                " فيديو 10 شرح الاصدار الرابع و الخامس": "http://www.youtube.com/embed/rHk8d_410mM",
+                " فيديو 11 شرح الاصدار الرابع و الخامس": "http://www.youtube.com/embed/3IyyllCdqdc",
+                " فيديو 12 شرح الاصدار الرابع و الخامس": "http://www.youtube.com/embed/KRXjGPY25Fo",
+                "اختبار على الإصدار الرابع و الخامس": "./testPages/versions/exam-version-4-5/exam-version-4-5.htm",
+            },
+            "1": {
+                "tag": [
+                    "file",
+                    "file",
+                    "video",
+                    "video",
+                    "test"
+                ],
+                "title": "الاصدار السادس من النماذج الجديدة",
+                " ملف الاصدار السادس من النماذج الجديدة غير محلول": "https://drive.google.com/file/d/1wHXiYXXLUs9zEMFrpUxZbO0KPqMwjZBG/preview",
+                " ملف الاصدار السادس من النماذج الجديدة محلول": "https://drive.google.com/file/d/1JNaDhAPRSs23XEuyFAWHyy3p3C7KXjFE/preview",
+                "notes": {
+                    "0": {
+                        "type": "text",
+                        "text": "ملحوظة "
+                    },
+                    "1": {
+                        "type": "text",
+                        "text": "تم تعديل نص و صيغة السؤال 380 و بالتالي تغير الحل ليصبح ج"
+                    },
+                    "2": {
+                        "type": "text",
+                        "text": "تم تصحيح سؤال 420 ليصبح الحل الصحيح ج 8"
+                    }
+                },
+                " فيديو 1 شرح الاصدار السادس": "http://www.youtube.com/embed/pF4p_5IaHLU",
+                " فيديو 2 تابع شرح الصدار السادس": "http://www.youtube.com/embed/sm-r5yugQp8",
+                "اختبار على الإصدار السادس": "./testPages/versions/exam-version-6/exam-version-6.htm",
+            }
+        }
+    },
+    card3: {
+        title: "الإصدارات من 7 إلى 9",
+        sections: {
+            "0": {
+                "tag": [
+                    "file",
+                    "file",
+                    "video",
+                    "video",
+                    "test"
+                ],
+                "title": "الاصدار السابع من النماذج الجديدة",
+                " ملف الاصدار السابع من النماذج الجديدة غير محلول": "https://drive.google.com/file/d/1Ym1y6uuKZBQnh5wpK5X0Hqyih6Phu6pd/preview",
+                " ملف الاصدار السابع من النماذج الجديدة محلول": "https://drive.google.com/file/d/1eUueRL9VQ1NRnO1QUrzrP95BvxJ19_xU/preview",
+                "notes": {},
+                " فيديو 13 شرح الاصدار السابع من النماذج الجديدة": "http://www.youtube.com/embed/RMAowTrcWU0",
+                " فيديو 14 شرح الاصدار السابع من النماذج الجديدة": "http://www.youtube.com/embed/-VQ1cx5nrv8",
+                "اختبار على الإصدار السابع": "./testPages/versions/exam-version-7/exam-version-7.htm",
+            },
+            "1": {
+                "tag": [
+                    "file",
+                    "file",
+                    "video",
+                    "video",
+                    "test"
+                ],
+                "title": "الاصدار الثامن من النماذج الجديدة",
+                " ملف الاصدار الثامن من النماذج الجديدة غير محلول": "https://drive.google.com/file/d/1oBFNuiXVPZbKIjLDqRnfbs_ERxA6BV-_/preview",
+                " ملف الاصدار الثامن من النماذج الجديدة محلول": "https://drive.google.com/file/d/1rIMv5n8tjAONVAQkAq9GAVjeTM-XPF8o/preview",
+                "notes": {},
+                " فيديو 1 شرح الاصدار الثامن": "http://www.youtube.com/embed/ey31SlcZGz0",
+                " فيديو 2 تابع شرح الاصدار الثامن": "http://www.youtube.com/embed/L2VGn0Szqdo",
+                "اختبار على الإصدار الثامن": "./testPages/versions/exam-version-8/exam-version-8.htm",
+            },
+            "2": {
+                "tag": [
+                    "file",
+                    "file",
+                    "video",
+                    "video",
+                    "test"
+                ],
+                "title": "الاصدار التاسع من النماذج الجديدة",
+                " ملف الاصدار التاسع من النماذج الجديدة غير محلول": "https://drive.google.com/file/d/1N5mnjKI9kqwHRSYb5yEMGmkKMI_OtccF/preview",
+                " ملف الاصدار التاسع من النماذج الجديدة محلول": "https://drive.google.com/file/d/1_urkFPltdC6uHFbRiCBpv50HR2U1iR0d/preview",
+                "notes": {},
+                " فيديو 1 شرح الاصدار التاسع": "http://www.youtube.com/embed/N2iHxEFOG0s",
+                " فيديو 2 تابع شرح الاصدار التاسع": "http://www.youtube.com/embed/qi_TTGGWAEY",
+                "اختبار على الإصدار التاسع": "./testPages/versions/exam-version-9/exam-version-9.htm",
+            }
+        }
+    },
+    card4: {
+        title: "الإصدارات من 10 إلى 13",
+        sections: {
+            "0": {
+                "tag": [
+                    "file",
+                    "file",
+                    "video",
+                    "video",
+                    "test"
+                ],
+                "title": "الاصدار 10",
+                " ملف الاصدار 10 غير محلول": "https://drive.google.com/file/d/11Y1OeJhn29E3vz3QWPDedf7dcSAYo1DA/preview",
+                " ملف الاصدار 10 محلول": "https://drive.google.com/file/d/11hOaBieZ5dX_4w8lptaWtdMDgV2cFS-J/preview",
+                "notes": {
+                    "0": {
+                        "type": "text",
+                        "text": "ملحوظة تم تعديل صيغة السؤال 588 كلاتي و الاجابة ب كما هي بالفيديو  "
+                    },
+                    "1": {
+                        "type": "imgSrc",
+                        "src": "data:image/jpeg;base64,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"
+                    }
+                },
+                " فيديو 1 شرح الاصدار 10": "http://www.youtube.com/embed/mTjnpcctNmk",
+                " فيديو 2 تابع شرح الاصدار 10": "http://www.youtube.com/embed/qBcf1vUM0LE",
+                " اختبار الاصدار 10": "./testPages/versions/exam-version-10/exam-version-10.htm"
+            },
+            "1": {
+                "tag": [
+                    "file",
+                    "file",
+                    "video",
+                    "video"
+                ],
+                "title": "الاصدار 11",
+                " ملف الاصدار 11 غير محلول": "",
+                " ملف الاصدار 11 محلول": "",
+                "notes": {},
+                " فيديو 1 شرج الاصدار 11": "http://www.youtube.com/embed/nyZgr6W4w_g",
+                " فيديو 2 تابع شرح الاصدار 11": "http://www.youtube.com/embed/cjbsLgOixeg"
+            },
+            "2": {
+                "tag": [
+                    "file",
+                    "file",
+                    "video",
+                    "video"
+                ],
+                "title": "اصدار 12 من بنك اسئلة المحوسب الجديد",
+                " ملف اصدار 12 من بنك اسئلة المحوسب الجديد غير محلول": "",
+                " ملف اصدار 12 من بنك اسئلة المحوسب الجديد محلول": "",
+                "notes": {
+                    "0": {
+                        "type": "text",
+                        "text": "تنبية هام "
+                    },
+                    "1": {
+                        "type": "text",
+                        "text": "تم تعديل صيغة السؤال 44  كما جاء في قياس "
+                    },
+                    "2": {
+                        "type": "text",
+                        "text": "تم تعديل اجابة السؤال 25 و الحل الصحيح 32 "
+                    }
+                },
+                " فيديو 1 اصدار 12": "http://www.youtube.com/embed/uH6a7ptUZbU",
+                " فيديو 2 اصدار 12": "http://www.youtube.com/embed/DpUcmIBFoT8"
+            },
+            "3": {
+                "tag": [
+                    "file",
+                    "file",
+                    "video",
+                    "video"
+                ],
+                "title": "اصدار 13 بنك اسئلة قياس الجديد",
+                " ملف اصدار 13 بنك اسئلة قياس الجديد غير محلول": "",
+                " ملف اصدار 13 بنك اسئلة قياس الجديد محلول": "",
+                "notes": {},
+                " فيديو 1 شرح اصدار 13": "http://www.youtube.com/embed/IvY7Z1BIcEw",
+                " فيديو 2 تابع شرح اصدار 13": "http://www.youtube.com/embed/I6kxOKp_es0"
+            }
+        }
+    },
+    card5: {
+        title: "الإصدارات من 14 إلى 18",
+        sections: {
+            "0": {
+                "tag": [
+                    "file",
+                    "file",
+                    "video",
+                    "video"
+                ],
+                "title": "اصدار 14 من بنك اسئلة المحوسب الجديد",
+                " ملف اصدار 14 من بنك اسئلة المحوسب الجديد غير محلول": "",
+                " ملف اصدار 14 من بنك اسئلة المحوسب الجديد محلول": "",
+                "notes": {},
+                " فيديو 1 اصدار 14": "http://www.youtube.com/embed/53VvgoWkrj0",
+                " فيديو 2 اصدار 14": "http://www.youtube.com/embed/iWY2S9T05l0"
+            },
+            "1": {
+                "tag": [
+                    "file",
+                    "file",
+                    "video",
+                    "video"
+                ],
+                "title": "اصدار 15 من بنك اسئلة المحوسب الجديد",
+                " ملف اصدار 15 من بنك اسئلة المحوسب الجديد غير محلول": "",
+                " ملف اصدار 15 من بنك اسئلة المحوسب الجديد محلول": "",
+                "notes": {},
+                " فيديو 1 الاصدار 15": "http://www.youtube.com/embed/zZvY0Petal4",
+                " فيديو 2 اصدار 15": "http://www.youtube.com/embed/zLORRNHYwIs"
+            },
+            "2": {
+                "tag": [
+                    "file",
+                    "file",
+                    "video",
+                    "video"
+                ],
+                "title": "اصدار 16 من بنك اسئلة المحوسب الجديد",
+                " ملف اصدار 16 من بنك اسئلة المحوسب الجديد غير محلول": "",
+                " ملف اصدار 16 من بنك اسئلة المحوسب الجديد محلول": "",
+                "notes": {},
+                " فيديو 1 اصدار 16": "http://www.youtube.com/embed/GQzLD8NFOBQ",
+                " فيديو 2 اصدار 16": "http://www.youtube.com/embed/PHMC6edFqXU"
+            },
+            "3": {
+                "tag": [
+                    "file",
+                    "file",
+                    "video",
+                    "video"
+                ],
+                "title": "اصدار 17 من بنك اسئلة المحوسب الجديد",
+                " ملف اصدار 17 من بنك اسئلة المحوسب الجديد غير محلول": "",
+                " ملف اصدار 17 من بنك اسئلة المحوسب الجديد محلول": "",
+                "notes": {
+                    "0": {
+                        "type": "text",
+                        "text": "ملحوظة سؤال 42 و 43 مختلفين في الصيغة "
+                    },
+                    "1": {
+                        "type": "text",
+                        "text": "السؤال 42 اجابتة  ب 21 كما في الملف المحلول "
+                    },
+                    "2": {
+                        "type": "text",
+                        "text": "السؤال 43 اجابته 16  كما في الملف المحلول "
+                    },
+                    "3": {
+                        "type": "text",
+                        "text": "ملحوظة "
+                    },
+                    "4": {
+                        "type": "text",
+                        "text": "تم تعديل الرسمة رقم 44 كما جاءت بقياس و الحل 52 "
+                    }
+                },
+                " فيديو 1 اصدار 17": "http://www.youtube.com/embed/2Jc-3DcCeIQ",
+                " فيديو 2 تابع اصدار 17": "http://www.youtube.com/embed/4hHrwKJrF2k"
+            },
+            "4": {
+                "tag": [
+                    "file",
+                    "file",
+                    "video",
+                    "video"
+                ],
+                "title": "اصدار 18 بنك اسئلة المحوسب الجديد",
+                " ملف اصدار 18 بنك اسئلة المحوسب الجديد غير محلول": "",
+                " ملف اصدار 18 بنك اسئلة المحوسب الجديد محلول": "",
+                "notes": {
+                    "0": {
+                        "type": "text",
+                        "text": "ملحوظة هامة "
+                    },
+                    "1": {
+                        "type": "text",
+                        "text": "تم تعديل صيغة سؤال 20 في ملف pdf المحلول و الغير محلول و الاختبار طبقا للنص الذي ورد في اختبار قياس بنفس الارقام رجاء من الجميع الاطلاع على الصيغة الجديدة "
+                    }
+                },
+                " فيديو 1 شرح اصدار 18": "http://www.youtube.com/embed/Re2LYz1E6yc",
+                " فيديو 2 تابع شرح اصدار 18": "http://www.youtube.com/embed/KiikY17lFIc"
+            }
+        }
+    },
+    card6: {
+        title: "الإصدارات من 19 إلى 23",
+        sections: {
+            "0": {
+                "tag": [
+                    "file",
+                    "file",
+                    "video",
+                    "video"
+                ],
+                "title": "اصدار 19 من بنك المحوسب الجديد",
+                " ملف اصدار 19 من بنك المحوسب الجديد غير محلول": "",
+                " ملف اصدار 19 من بنك المحوسب الجديد محلول": "",
+                "notes": {},
+                " فيديو 1 شرح اصدار 19": "http://www.youtube.com/embed/VGf0dKAmqMY",
+                " فيديو 2 اصدار 19": "http://www.youtube.com/embed/R2J32T-5q9c"
+            },
+            "1": {
+                "tag": [
+                    "file",
+                    "file",
+                    "video",
+                    "video"
+                ],
+                "title": "اصدار 20",
+                " ملف اصدار 20 غير محلول": "",
+                " ملف اصدار 20 محلول": "",
+                "notes": {},
+                " فيديو 1 اصدار 20": "http://www.youtube.com/embed/2oZy157Q5nY",
+                " فيديو 2 اصدار 20": "http://www.youtube.com/embed/qNkBL-HqvCM"
+            },
+            "2": {
+                "tag": [
+                    "file",
+                    "file",
+                    "video",
+                    "video"
+                ],
+                "title": "اصدار 21",
+                " ملف اصدار 21 غير محلول": "",
+                " ملف اصدار 21 محلول": "",
+                "notes": {},
+                " فيديو 1 اصدار 21": "http://www.youtube.com/embed/6LolhiBJ7MY",
+                " فيديو 2 اصدار 21": "http://www.youtube.com/embed/XHRuG9ScFRk"
+            },
+            "3": {
+                "tag": [
+                    "file",
+                    "file",
+                    "video",
+                    "video"
+                ],
+                "title": "اصدار 22",
+                " ملف اصدار 22 غير محلول": "",
+                " ملف اصدار 22 محلول": "",
+                "notes": {},
+                " فيديو 1اصدار 22": "http://www.youtube.com/embed/0ATgd41_6UA",
+                " فيديو 2 اصدار 22": "http://www.youtube.com/embed/-7qDwXtX20Q"
+            },
+            "4": {
+                "tag": [
+                    "file",
+                    "file",
+                    "video",
+                    "video"
+                ],
+                "title": "اصدار 23",
+                " ملف اصدار 23 غير محلول": "",
+                " ملف اصدار 23 محلول": "",
+                "notes": {},
+                " فيديو 1 صدار 23": "http://www.youtube.com/embed/IRiyFhQyP0o",
+                " فيديو 2 اصدار 23": "http://www.youtube.com/embed/GqFZq06AV4Y"
+            }
+        }
+    },
+    card7: {
+        title: "الإصدارات من 24 إلى 28",
+        sections: {
+            "0": {
+                "tag": [
+                    "file",
+                    "file",
+                    "video",
+                    "video"
+                ],
+                "title": "اصدار 24",
+                " ملف اصدار 24 غير محلول": "",
+                " ملف اصدار 24 محلول": "",
+                "notes": {},
+                " فيديو 1 اصدار 24": "http://www.youtube.com/embed/omxdjozk_w8",
+                " فيديو 2 اصدار 24": "http://www.youtube.com/embed/_SzqYueaRKQ"
+            },
+            "1": {
+                "tag": [
+                    "file",
+                    "file",
+                    "video",
+                    "video"
+                ],
+                "title": "اصدار 25",
+                " ملف اصدار 25 غير محلول": "",
+                " ملف اصدار 25 محلول": "",
+                "notes": {},
+                " فيديو 1 اصدار 25": "http://www.youtube.com/embed/iSOAgduLec0",
+                " فيديو 2 اصدار 25": "http://www.youtube.com/embed/v8dDf6ZFEOE"
+            },
+            "2": {
+                "tag": [
+                    "file",
+                    "file",
+                    "video",
+                    "video"
+                ],
+                "title": "اصدار 26",
+                " ملف اصدار 26 غير محلول": "",
+                " ملف اصدار 26 محلول": "",
+                "notes": {},
+                " فيديو 1 اصدار 26": "http://www.youtube.com/embed/Zr6QTPDfQEY",
+                " فيديو 2 اصدار 26": "http://www.youtube.com/embed/QWslQ1d_1H8"
+            },
+            "3": {
+                "tag": [
+                    "file",
+                    "file",
+                    "video",
+                    "video"
+                ],
+                "title": "اصدار 27",
+                " ملف اصدار 27 غير محلول": "",
+                " ملف اصدار 27 محلول": "",
+                "notes": {},
+                " فيديو 1 اصدار 27": "http://www.youtube.com/embed/KEbWBSSTf54",
+                " فيديو 2 اصدار 27": "http://www.youtube.com/embed/mdbkIZwje_M"
+            },
+            "4": {
+                "tag": [
+                    "file",
+                    "file",
+                    "video",
+                    "video"
+                ],
+                "title": "اصدار 28",
+                " ملف اصدار 28 غير محلول": "",
+                " ملف اصدار 28 محلول": "",
+                "notes": {},
+                " فيديو 1 اصدار 28": "http://www.youtube.com/embed/TYtTXvKJazY",
+                " فيديو 2 اصدار 28": "http://www.youtube.com/embed/tfTU3n00t00"
+            }
+        }
+    },
+    card8: {
+        title: "الإصدارات من 29 إلى 32",
+        sections: {
+            "0": {
+                "tag": [
+                    "file",
+                    "file",
+                    "video",
+                    "video"
+                ],
+                "title": "الاصدار 29",
+                " ملف الاصدار 29 غير محلول": "",
+                " ملف الاصدار 29 محلول": "",
+                "notes": {},
+                " فيديو 1 اصدار 29": "http://www.youtube.com/embed/5PxnWKAACCk",
+                " فيديو 2 اصدار 29": "http://www.youtube.com/embed/ahmobQd9P4A"
+            },
+            "1": {
+                "tag": [
+                    "file",
+                    "file",
+                    "video",
+                    "video"
+                ],
+                "title": "اصدار 30",
+                " ملف اصدار 30 غير محلول": "",
+                " ملف اصدار 30 محلول": "",
+                "notes": {},
+                " فيديو 1 اصدار 30": "http://www.youtube.com/embed/RMy0J01L6N8",
+                " فيديو 2 اصدار 30": "http://www.youtube.com/embed/j25oOsk7-nY"
+            },
+            "2": {
+                "tag": [
+                    "file",
+                    "file",
+                    "video",
+                    "video"
+                ],
+                "title": "اصدار 31",
+                " ملف اصدار 31 غير محلول": "",
+                " ملف اصدار 31 محلول": "",
+                "notes": {},
+                " فيديو 1 اصدار 31": "http://www.youtube.com/embed/Yq1ToH__iDk",
+                " فيديو 2 اصدار 31": "http://www.youtube.com/embed/a9UYBIokda4"
+            },
+            "3": {
+                "tag": [
+                    "file",
+                    "file",
+                    "video",
+                    "video"
+                ],
+                "title": "اصدار 32",
+                " ملف اصدار 32 غير محلول": "",
+                " ملف اصدار 32 محلول": "",
+                "notes": {
+                    "0": {
+                        "type": "text",
+                        "text": "ملحوظة "
+                    },
+                    "1": {
+                        "type": "text",
+                        "text": "تم تعديل اجابة السؤال رقم 20  لتصبح الاجابة الصحيحة د و تم التعديل في الملف pdf المحلول "
+                    }
+                },
+                " فيديو 1 اصدار 32": "http://www.youtube.com/embed/RPX90lu4bKc",
+                " فيديو 2 اصدار 32": "http://www.youtube.com/embed/6PUD-2_A8WQ"
+            }
+        }
+    },
+    card9: {
+        title: "الإصدارات من 33 إلى 36",
+        sections: {
+            "0": {
+                "tag": [
+                    "file",
+                    "file",
+                    "video",
+                    "video"
+                ],
+                "title": "اصدار 33",
+                " ملف اصدار 33 غير محلول": "",
+                " ملف اصدار 33 محلول": "",
+                "notes": {},
+                " فيديو 1 اصدار 33": "http://www.youtube.com/embed/UcHYecdMtFA",
+                " فيديو 2 اصدار 33": "http://www.youtube.com/embed/Kk3Fm49n6ng"
+            },
+            "1": {
+                "tag": [
+                    "file",
+                    "file",
+                    "video",
+                    "video"
+                ],
+                "title": "اصدار 34",
+                " ملف اصدار 34 غير محلول": "",
+                " ملف اصدار 34 محلول": "",
+                "notes": {},
+                " فيديو 1 اصدار 34": "http://www.youtube.com/embed/AVlAR4pbJng",
+                " فيديو 2 اصدار 2": "http://www.youtube.com/embed/zSiq3oOkdpw"
+            },
+            "2": {
+                "tag": [
+                    "file",
+                    "file",
+                    "video",
+                    "video"
+                ],
+                "title": "اصدار 35",
+                " ملف اصدار 35 غير محلول": "",
+                " ملف اصدار 35 محلول": "",
+                "notes": {},
+                " فيديو 1 اصدار 35": "http://www.youtube.com/embed/25e7-KfaalU",
+                " فيديو 2 اصدار 35": "http://www.youtube.com/embed/ips_xgKkI-E"
+            },
+            "3": {
+                "tag": [
+                    "file",
+                    "file",
+                    "video",
+                    "video"
+                ],
+                "title": "اصدار 36",
+                " ملف اصدار 36 غير محلول": "",
+                " ملف اصدار 36 محلول": "",
+                "notes": {},
+                " فيديو 1 اصدار 36": "http://www.youtube.com/embed/2OCb2Hvih3w",
+                " فيديو 2 اصدار 36": "http://www.youtube.com/embed/QJk-qrCpdc0"
+            }
+        }
+    },
+}
+
+
+
+
+
+
+
+
+
+
+
 //
 //
 //    /////////          
@@ -436,93 +1109,8 @@ const cardsContainer1 = {
 //    
 //
 
-const cardsContainer2 = {
+const cardsContainer3 = {
     card1: {
-        title: "الإصدارات والنماذج الجديدة",
-        sections: {
-            0: {
-                tag: ["file", "file", "video", "video", "video", "test"],
-                title: "الإصدار الأول من النماذج الجديدة",
-                "إصدار 1": "https://drive.google.com/file/d/11VAICulmT8gI3Qm5A79luOBFSGEDcLji/view?usp=drive_link",
-                "إصدار 1 محلول": "https://drive.google.com/file/d/1EVgEXLCXOHWMPdvkB3AOYyrq-8r93c_7/view?usp=drive_link",
-                "فيديو شرح التمارين من 1 إلى 25": "https://www.youtube.com/embed/gfo3CB-hvbM?&modestbranding=1&rel=0&showinfo=0&loop=0&hl=en&enablejsapi=1&origin=https%3A%2F%2Ftiqdr.com&widgetid=1",
-                "فيديو شرح التمارين من 26 إلى 50": "https://www.youtube.com/embed/QrB_e5j2V7U?&modestbranding=1&rel=0&showinfo=0&loop=0&hl=en&enablejsapi=1&origin=https%3A%2F%2Ftiqdr.com&widgetid=2",
-                "فيديو شرح التمارين من 51 إلى 73": "https://www.youtube.com/embed/qkSOHftFKBo?&modestbranding=1&rel=0&showinfo=0&loop=0&hl=en&enablejsapi=1&origin=https%3A%2F%2Ftiqdr.com&widgetid=3",
-                "اختبار على الإصدار الأول": "./testPages/versions/test-version-1/test-version-1.htm",
-            },
-            1: {
-                tag: ["file", "file", "video", "video", "test"],
-                title: "الإصدار الثاني من النماذج الجديدة",
-                "مفاتيح حل إصدار 2": "https://drive.google.com/file/d/11MAg478wE7Dv9WGUZeFgTUqawqsh-Byg/view?usp=drive_link",
-                "إصدار 2 محلول": "https://drive.google.com/file/d/1u6W8CNGSeRKKZFQhOgE3PHS1b7-Ikunt/view?usp=drive_link",
-                "فيديو شرح الإصدار الثاني": "https://www.youtube.com/embed/q_hGTyftEvk?&modestbranding=1&rel=0&showinfo=0&loop=0&hl=en&enablejsapi=1&origin=https%3A%2F%2Ftiqdr.com&widgetid=4",
-                "فيديو تابع شرح الإصدار الثاني": "https://www.youtube.com/embed/X1Iq-OsLs7c?&modestbranding=1&rel=0&showinfo=0&loop=0&hl=en&enablejsapi=1&origin=https%3A%2F%2Ftiqdr.com&widgetid=5",
-                "اختبار على الإصدار الثاني": "./testPages/versions/test-version-2/test-version-2.htm",
-            },
-            2: {
-                tag: ["file", "file", "video", "video", "test"],
-                title: "الإصدار الثالث من النماذج الجديدة",
-                "مفاتيج حل إصدار 3": "https://drive.google.com/file/d/1I8IlufkENBDNTR87ct4O7pjYKLmH3n6S/view?usp=drive_link",
-                "إصدار 3 محلول": "https://drive.google.com/file/d/1CB6dYz9MBDh9SFjtPAMOaKP25ja3ad9O/view?usp=drive_link",
-                "فيديو 6 شرح الإصدار": "https://www.youtube.com/embed/jS22_CJUJHc?&modestbranding=1&rel=0&showinfo=0&loop=0&hl=en&enablejsapi=1&origin=https%3A%2F%2Ftiqdr.com&widgetid=7",
-                "فيديو 7 تابع شرح الإصدار الثالث": "https://www.youtube.com/embed/joMok5Pl2YQ?&modestbranding=1&rel=0&showinfo=0&loop=0&hl=en&enablejsapi=1&origin=https%3A%2F%2Ftiqdr.com&widgetid=8",
-                "اختبار على الإصدار الثالث": "./testPages/versions//test-version-3/test-version-3.htm",
-            },
-            3: {
-                tag: ["file", "file", "video", "video", "video", "video", "video", "test"],
-                title: "الاصدار الرابع و الخامس من النماذج الجديدة",
-                "مفاتيج حل إصدار 4-5": "https://drive.google.com/file/d/1jOLq51dhIPqXtamHFByAGhlX3nu_Ulex/view?usp=drive_link",
-                "إصدار 4-5 محلول": "https://drive.google.com/file/d/18u1oneIRC3-XgVDpXcTacY2OcBtn9XER/view?usp=drive_link",
-                "فيديو 9 شرح الاصدار الرابع و الخامس": "https://www.youtube.com/embed/V7d0on-XvvY?&modestbranding=1&rel=0&showinfo=0&loop=0&hl=en&enablejsapi=1&origin=https%3A%2F%2Ftiqdr.com&widgetid=9",
-                "فيديو 10 شرح الاصدار الرابع و الخامس": "https://www.youtube.com/embed/V7d0on-XvvY?&modestbranding=1&rel=0&showinfo=0&loop=0&hl=en&enablejsapi=1&origin=https%3A%2F%2Ftiqdr.com&widgetid=10",
-                "فيديو 11 شرح الاصدار الرابع و الخامس": "https://www.youtube.com/embed/3IyyllCdqdc?&modestbranding=1&rel=0&showinfo=0&loop=0&hl=en&enablejsapi=1&origin=https%3A%2F%2Ftiqdr.com&widgetid=11",
-                "فيديو 12 شرح الاصدار الرابع و الخامس": "https://www.youtube.com/embed/KRXjGPY25Fo?&modestbranding=1&rel=0&showinfo=0&loop=0&hl=en&enablejsapi=1&origin=https%3A%2F%2Ftiqdr.com&widgetid=12",
-                "فيديو 13 شرح الاصدار الرابع و الخامس": "https://www.youtube.com/embed/LCzV8jpUJ-w?&modestbranding=1&rel=0&showinfo=0&loop=0&hl=en&enablejsapi=1&origin=https%3A%2F%2Ftiqdr.com&widgetid=13",
-                "اختبار على الإصدار الرابع والخامس": "./testPages/versions/test-version-4-5/test-version-4-5.htm",
-            },
-            4: {
-                tag: ["file", "file", "video", "video", "test"],
-                title: "الاصدار السادس من النماذج الجديد",
-                "مفاتيج حل إصدار 6": "https://drive.google.com/file/d/1Z4q_wbrkYWI-sIx7Pm5iQkNrNOZOGNr-/view?usp=drive_link",
-                "إصدار 6 محلول": "",
-                "فيديو 1 شرح الاصدار السادس من تمرين 353  الى تمرين 381": "https://www.youtube.com/embed/pF4p_5IaHLU?&modestbranding=1&rel=0&showinfo=0&loop=0&&hl=en&enablejsapi=1&origin=https%3A%2F%2Ftiqdr.com&widgetid=13",
-                "فيديو 1 شرح الاصدار السادس من تمرين 382  الى تمرين 416": "https://www.youtube.com/embed/sm-r5yugQp8?&modestbranding=1&rel=0&showinfo=0&loop=0&&hl=en&enablejsapi=1&origin=https%3A%2F%2Ftiqdr.com&widgetid=14",
-                "اختبار على الإصدار السادس": "./testPages/versions/test-version-6/test-verison-6.htm",
-            },
-            5: {
-                tag: ["file", "file", "video", "video"],
-                title: "الاصدار السابع من النماذج الجديدة",
-                "مفاتيج حل إصدار 7": "",
-                "إصدار 7 محلول": "https://drive.google.com/file/d/1D8X_OxpgL_wfGwjLrv_Piqfv3tcM-n7K/view?usp=drive_link",
-                "فيديو 13 شرح الاصدار السابع": "https://www.youtube.com/embed/null?&modestbranding=1&rel=0&showinfo=0&loop=0&&hl=en&enablejsapi=1&origin=https%3A%2F%2Ftiqdr.com&widgetid=15",
-                "فيديو 14 شرح الاصدار السابع": "https://www.youtube.com/embed/-VQ1cx5nrv8?&modestbranding=1&rel=0&showinfo=0&loop=0&&hl=en&enablejsapi=1&origin=https%3A%2F%2Ftiqdr.com&widgetid=16",
-            },
-            6: {
-                tag: ["file", "file", "video", "video"],
-                title: "الاصدار الثامن من النماذج الجديدة",
-                "مفاتيج حل إصدار 8": "https://drive.google.com/file/d/1CRD54BtHDHJzCsHq49NGsZkA7IF6XJbv/view?usp=drive_link",
-                "إصدار 8 محلول": "https://drive.google.com/file/d/1NwkxWhvxEKstS0g7TxDL3IyBvSJpk3j7/view?usp=drive_link",
-                "فيديو 15 شرح الاصدار الثامن": "https://www.youtube.com/embed/ey31SlcZGz0?&modestbranding=1&rel=0&showinfo=0&loop=0&&hl=en&enablejsapi=1&origin=https%3A%2F%2Ftiqdr.com&widgetid=17",
-                "فيديو 16 تابع شرح الاصدار الثامن": "https://www.youtube.com/embed/L2VGn0Szqdo?&modestbranding=1&rel=0&showinfo=0&loop=0&&hl=en&enablejsapi=1&origin=https%3A%2F%2Ftiqdr.com&widgetid=18",
-            },
-            7: {
-                tag: ["file", "file", "video", "video"],
-                title: "الاصدار التاسع من النماذج الجديدة",
-                "مفاتيج حل إصدار 9": "https://drive.google.com/file/d/1AbhNARiQcHLDUle0_HR2oDz2GmqqwZsi/view?usp=drive_link",
-                "إصدار 9 محلول": "https://drive.google.com/file/d/1E3cIXSzbvKVsQivPdBX_puaHJk-0MQ9M/view?usp=drive_link",
-                "فيديو 17 شرح الاصدار التاسع": "https://www.youtube.com/embed/N2iHxEFOG0s?&modestbranding=1&rel=0&showinfo=0&loop=0&&hl=en&enablejsapi=1&origin=https%3A%2F%2Ftiqdr.com&widgetid=19",
-                "فيديو 18 تابع شرح تالاصدار التاسع": "https://www.youtube.com/embed/qi_TTGGWAEY?&modestbranding=1&rel=0&showinfo=0&loop=0&&hl=en&enablejsapi=1&origin=https%3A%2F%2Ftiqdr.com&widgetid=20",
-            },
-            8: {
-                tag: ["file", "file"],
-                title: "الإصدار العاشر من النماذج الجديدة",
-                "مفاتيج حل إصدار 10": "https://drive.google.com/file/d/18a1zawBuB9cVJ8-an4ZpvaDWy2y9RN0x/view?usp=drive_link",
-                "إصدار 10 محلول": "https://drive.google.com/file/d/1kalDbecrhGDqaMJAAwUCPcRcdxrWIbhI/view?usp=drive_link",
-            }
-
-        }
-    },
-    card2: {
         title: "باقة ملخص الرسومات البيانية",
         sections: {
             0: {
@@ -531,7 +1119,7 @@ const cardsContainer2 = {
             }
         }
     },
-    card3: {
+    card2: {
         title: "نماذج 1 إلى 10",
         sections: {
             0: {
@@ -606,7 +1194,7 @@ const cardsContainer2 = {
             },
         }
     },
-    card4: {
+    card3: {
         title: "نماذج 11 إلى 20",
         sections: {
             0: {
@@ -681,7 +1269,7 @@ const cardsContainer2 = {
             },
         },
     },
-    card5: {
+    card4: {
         title: "نماذج 21 إلى 30",
         sections: {
             0: {
@@ -756,7 +1344,7 @@ const cardsContainer2 = {
             },
         },
     },
-    card6: {
+    card5: {
         title: "نماذج 31 إلى 40",
         sections: {
 
@@ -832,7 +1420,7 @@ const cardsContainer2 = {
             },
         },
     },
-    card7: {
+    card6: {
         title: "نماذج 41 إلى 50",
         sections: {
             0: {
@@ -907,7 +1495,7 @@ const cardsContainer2 = {
             },
         },
     },
-    card8: {
+    card7: {
         title: "نماذج 51 إلى 60",
         sections: {
             0: {
@@ -982,7 +1570,7 @@ const cardsContainer2 = {
             },
         },
     },
-    card9: {
+    card8: {
         title: "نماذج 61 إلى 70",
         sections: {
             0: {
@@ -1066,7 +1654,7 @@ const cardsContainer2 = {
             },
         },
     },
-    card10: {
+    card9: {
         title: "نماذج 71 إلى 80",
         sections: {
             0: {
@@ -1150,7 +1738,7 @@ const cardsContainer2 = {
             },
         },
     },
-    card11: {
+    card10: {
         title: "نموذج 81 إلى 89",
         sections: {
             0: {
@@ -1218,7 +1806,7 @@ const cardsContainer2 = {
             },
         },
     },
-    card12: {
+    card11: {
         title: "نماذج قديمة: 1 إلى 10",
         sections: {
             0: {
@@ -1283,7 +1871,7 @@ const cardsContainer2 = {
             },
         },
     },
-    card13: {
+    card12: {
         title: "نماذج قديمة: 11 إلى 20",
         sections: {
             0: {
@@ -1349,7 +1937,7 @@ const cardsContainer2 = {
             },
         },
     },
-    card14: {
+    card13: {
         title: "نماذج قديمة: 21 إلى 30",
         sections: {
             0: {
@@ -1415,7 +2003,7 @@ const cardsContainer2 = {
             },
         },
     },
-    card15: {
+    card14: {
         title: "نماذج قديمة: 31 إلى 39",
         sections: {
             0: {
@@ -1508,37 +2096,62 @@ function createNewCardContainer(page, cardInfo, card) {
         newSectionTitle.textContent = `${cardInfo.sections[section].title}`
         newSection.appendChild(newSectionTitle)
 
+
+
         // Create the Group Elements Container
         const newSectionGroupContainer = document.createElement('div')
         newSectionGroupContainer.classList.add('group-elements-container')
+
+
+        // Create Notes
+        if (cardInfo.sections[section].notes && Object.keys(cardInfo.sections[section].notes).length != 0) {
+            const newSectionNotes = document.createElement('div')
+            newSectionNotes.classList.add('group-notes')
+
+            const newSectionNotesUl = document.createElement('ul')
+            for (const note in cardInfo.sections[section].notes) {
+                const noteType = cardInfo.sections[section].notes[note]['type']
+                if (noteType === 'text' && cardInfo.sections[section].notes[note]['text'] != '') {
+                    newSectionNotesUl.innerHTML += `<li>${cardInfo.sections[section].notes[note]['text']}</li>`
+                } else if (noteType === 'imgSrc') {
+                    newSectionNotesUl.innerHTML += `<img src="${cardInfo.sections[section].notes[note]['src']}">`
+                }
+            }
+            newSectionNotes.appendChild(newSectionNotesUl)
+            newSection.appendChild(newSectionNotes)
+
+        }
+
         // Loop inside the Elements
         let tagIndex = 0
         for (elmnt in cardInfo.sections[section]) {
-            if (((cardInfo.sections[section].tag[tagIndex] == 'video') | (cardInfo.sections[section].tag[tagIndex] == 'test')) && elmnt != 'tag' && elmnt != 'title') {
-                // Create Group Element
-                newSectionGroupContainer.innerHTML += `
-                    <div class="group-element" onclick="openIframe('${page}', '${card}', '${section}', '${elmnt}')">
-                        <div class="group-element-tag">
-                            <img src="./assets/${cardInfo.sections[section].tag[tagIndex]}.png">
-                        </div>
-                        <div class="group-element-text">${elmnt}</div>
-                    </div>
-                `
-                tagIndex++
-            } else if ((cardInfo.sections[section].tag[tagIndex] == 'file') && elmnt != 'tag' && elmnt != 'title') {
-                // Create Group Element
-                newSectionGroupContainer.innerHTML += `
-                    <a href="${cardInfo.sections[section][elmnt]}" target="_blank">
-                        <div class="group-element">
+            if (elmnt != 'tag' && elmnt != 'title' && elmnt != 'notes') {
+                if ((cardInfo.sections[section].tag[tagIndex] == 'video') | (cardInfo.sections[section].tag[tagIndex] == 'test' | (cardInfo.sections[section].tag[tagIndex] == 'file' && page == "page-2"))) {
+                    // Create Group Element
+                    newSectionGroupContainer.innerHTML += `
+                        <div class="group-element" onclick="openIframe('${page}', '${card}', '${section}', '${elmnt}')">
                             <div class="group-element-tag">
                                 <img src="./assets/${cardInfo.sections[section].tag[tagIndex]}.png">
                             </div>
                             <div class="group-element-text">${elmnt}</div>
                         </div>
-                    </a>
-
-                `
-                tagIndex++
+                    `
+                    tagIndex++
+                } else if (cardInfo.sections[section].tag[tagIndex] == 'file') {
+                    // Create Group Element
+                    newSectionGroupContainer.innerHTML += `
+                        <a href="${cardInfo.sections[section][elmnt]}" target="_blank">
+                            <div class="group-element">
+                                <div class="group-element-tag">
+                                    <img src="./assets/${cardInfo.sections[section].tag[tagIndex]}.png">
+                                </div>
+                                <div class="group-element-text">${elmnt}</div>
+                            </div>
+                        </a>
+    
+                    `
+                    tagIndex++
+                }
             }
         }
         newSection.appendChild(newSectionGroupContainer)
@@ -1561,8 +2174,8 @@ function createPage(cardList, parent) {
     document.querySelector(`main.${parent}`).appendChild(scrollContainer)
 }
 createPage(cardsContainer1, "page-1")
-createPage(cardsContainer2, "page-3")
-
+createPage(cardsContainer2, "page-2")
+createPage(cardsContainer3, "page-3")
 
 
 
@@ -1583,20 +2196,26 @@ function switchPage(pageNum) {
 }
 const iframeContainer = document.querySelector('.iframe-container')
 const iframe = document.querySelector('.iframe')
-function toggleIframe(){
+function toggleIframe() {
     document.querySelector('iframe.iframe').src = " "
     iframeContainer.classList.toggle('hidden')
 }
 function openIframe(parent, card, section, name) {
     var pageCardsContainer
-    if(parent == "page-1"){
+    if (parent == "page-1") {
         pageCardsContainer = cardsContainer1
-    }else if(parent == "page-3"){
+    } else if (parent == "page-2") {
         pageCardsContainer = cardsContainer2
+    } else if (parent == "page-3") {
+        pageCardsContainer = cardsContainer3
     }
     toggleIframe()
     document.querySelector('iframe.iframe').src = pageCardsContainer[card].sections[section][name]
 }
+
+
+
+
 
 
 // Portable whiteboard
@@ -1604,14 +2223,14 @@ function openIframe(parent, card, section, name) {
 const canvas = document.querySelector('.canvas')
 const canvasContainer = document.querySelector('.canvas-container')
 
-function toggleWhiteboard(){
+function toggleWhiteboard() {
     canvasContainer.classList.toggle('hide-whiteboard')
     canvasContainer.style.top = "10px"
-    canvasContainer.style.left = "100px"
+    canvasContainer.style.left = "70px"
 }
 
 // iframe resize observer
-const observer = new ResizeObserver(function(changes){
+const observer = new ResizeObserver(function (changes) {
     canvas.height = changes[0]['contentRect']['height']
 })
 observer.observe(canvasContainer)
@@ -1641,10 +2260,10 @@ function dragElement(elmnt) {
     function elementDrag(e) {
         e = e || window.event;
         e.preventDefault();
-        if(!canvas.classList.contains('canvas-unclickable')){
+        if (!canvas.classList.contains('canvas-unclickable')) {
             canvas.classList.add('canvas-unclickable')
         }
-        if(!iframe.classList.contains('iframe-unclickable')){
+        if (!iframe.classList.contains('iframe-unclickable')) {
             iframe.classList.add('iframe-unclickable')
         }
         // calculate the new cursor position:

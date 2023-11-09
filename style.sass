@@ -7,9 +7,9 @@ a
     all: unset
 html
     body
-        height: 100%
+        height: 100vh
         width: 100%
-        background-color: #333
+        background-color: #222
         display: flex
         align-items: center
         flex-direction: column
@@ -102,6 +102,8 @@ html
                 z-index: 4
                 background-color: #333
                 pointer-events: unset
+                background: #222 url("./assets/throbber.gif") no-repeat center center fixed
+                background-size: 250px
             .iframe-unclickable
                 pointer-events: none !important
             .iframe-killer
@@ -161,49 +163,57 @@ html
                     background-color: #545454
 
         main
-            height: 100%
+            height: calc(100% - 60px)
             width: 100%
             .flex-container
+                height: 100%
                 overflow: auto
                 display: flex
                 flex-direction: row-reverse
                 gap: 40px
-                padding: 50px 20px 0 20px
+                padding: 50px 20px 10px 20px
                 box-shadow: 0px 0px 36px -21px rgba(0,0,0,0.75) inset
                 background-color: #222
+                scrollbar-width: thin
                 .card-outer-container
+                    height: 100%
                     position: relative
                     display: flex
                     align-items: center
                     flex-direction: column
                     flex-wrap: wrap
-                    margin-bottom: 30px
                     .title-container
                         height: 50px
                         width: 180px
                         display: flex
                         justify-content: center
                         align-items: center
-                        background-color: #a49574
+                        background-color: #09814f
                         border-radius: 50px
                         position: absolute
                         top: -25px
+                        box-shadow: 5px 5px 10px 0px rgba(0, 0, 0, 0.5) inset
+                        -webkit-box-shadow: 5px 5px 10px 0px rgba(0, 0, 0, 0.5) inset
+                        -moz-box-shadow: 5px 5px 10px 0px rgba(0, 0, 0, 0.5) inset
                         h3
-                            text-shadow: #000 3px 3px 8px
+                            text-shadow: #000000 2px 2px 7px
                             color: #fff
                             text-align: center
                     .card-inner-container
+                        height: 100%
                         display: flex
                         align-items: center
                         flex-direction: column
-                        height: fit-content
                         border-radius: 10px
                         box-shadow: 0px 0px 10px 0px rgba(0,0,0,0.47)
                         min-width: 350px
                         max-width: 350px
                         background-color: #333
                         padding-top: 20px
-                        border: 2px solid #a4987d
+                        border: 2px solid #09814f
+                        overflow: auto
+                        scrollbar-width: thin
+                        scrollbar-color: #058c54 #222
                         .group-section-container
                             width: 90%
                             margin-top: 20px
@@ -212,7 +222,28 @@ html
                                 font-size: 1.1em
                                 font-family: "nashra-variable",sans-serif
                                 font-variation-settings: 'wght' 300
-                                color: #dfd0ad
+                                color: #1ba96e
+
+                            .group-notes
+                                font-size: 0.9em
+                                font-family: "nashra-variable",sans-serif
+                                color: #fff
+                                // margin: 10px 5% 10px 0
+                                background-color: #222
+                                margin-inline: auto
+                                padding: 10px
+                                border: 2px solid #1e8057
+                                border-radius: 10px
+                                margin: 20px 0
+                                ul
+                                    display: flex
+                                    flex-direction: column
+                                    gap: 10px
+                                    li
+                                        margin-right: 15px
+                                    img
+                                        width: 100%
+                                        border-radius: 5px
                             .group-elements-container
                                 margin-right: 5px
                                 .group-element
@@ -227,12 +258,13 @@ html
                                     font-variation-settings: 'wght' 400
                                     background-color: #222
                                     color: #fff
-                                    transition: background-color 0.2s ease, color 0.2s ease
+                                    transition: all 0.2s ease
+                                    box-shadow: 5px 5px 10px 0px rgba(0, 0, 0, 0.5) inset
+                                    -webkit-box-shadow: 5px 5px 10px 0px rgba(0, 0, 0, 0.5) inset
+                                    -moz-box-shadow: 5px 5px 10px 0px rgba(0, 0, 0, 0.5) inset
                                     @media ( hover : hover )
                                         &:hover
-                                            background-color: #a49574
-                                            color: #333
-                                            font-weight: 600
+                                            background-color: #009759
                                     .group-element-tag
                                         img
                                             width: 30px
@@ -240,6 +272,8 @@ html
                                     .group-element-text
                                         margin-right: 10px
                                         margin-bottom: 2px
+                                        text-shadow: 4px 5px 4px rgba(0, 0, 0, 0.8)
+
                         hr
                             height: 2px
                             width: 90%
