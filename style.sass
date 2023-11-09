@@ -3,6 +3,27 @@ $border-color: #424242
     padding: 0
     margin: 0
     box-sizing: border-box
+/* width */
+::-webkit-scrollbar 
+    width: 5px
+    height: 10px
+
+/* Track */
+::-webkit-scrollbar-track 
+    box-shadow: inset 0 0 5px #222 
+    border-radius: 10px
+
+ 
+/* Handle */
+::-webkit-scrollbar-thumb 
+    background: #058c54
+    border-radius: 10px
+
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover 
+    background: #00723d 
+
 a
     all: unset
 html
@@ -265,6 +286,9 @@ html
                                     @media ( hover : hover )
                                         &:hover
                                             background-color: #009759
+                                            box-shadow: 5px 5px 10px 0px rgba(0, 0, 0, 0) inset
+                                            -webkit-box-shadow: 5px 5px 10px 0px rgba(0, 0, 0, 0) inset
+                                            -moz-box-shadow: 5px 5px 10px 0px rgba(0, 0, 0, 0) inset
                                     .group-element-tag
                                         img
                                             width: 30px

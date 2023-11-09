@@ -644,25 +644,28 @@ const cardsContainer2 = {
                     "file",
                     "file",
                     "video",
-                    "video"
+                    "video",
+                    "test"
                 ],
                 "title": "الاصدار 11",
-                " ملف الاصدار 11 غير محلول": "",
-                " ملف الاصدار 11 محلول": "",
+                " ملف الاصدار 11 غير محلول": "https://drive.google.com/file/d/1NeypvIM9WXIY0wFZjE0aGf_z0JrH6OOd/preview",
+                " ملف الاصدار 11 محلول": "https://drive.google.com/file/d/1fIcX5y7Nbi7ZEeZ_Wp_wCYmWZx7-nzHP/preview",
                 "notes": {},
                 " فيديو 1 شرج الاصدار 11": "http://www.youtube.com/embed/nyZgr6W4w_g",
-                " فيديو 2 تابع شرح الاصدار 11": "http://www.youtube.com/embed/cjbsLgOixeg"
+                " فيديو 2 تابع شرح الاصدار 11": "http://www.youtube.com/embed/cjbsLgOixeg",
+                " اختبار الاصدار 11": "./testPages/versions/exam-version-11/exam-version-11.html", 
             },
             "2": {
                 "tag": [
                     "file",
                     "file",
                     "video",
-                    "video"
+                    "video",
+                    "test"
                 ],
                 "title": "اصدار 12 من بنك اسئلة المحوسب الجديد",
-                " ملف اصدار 12 من بنك اسئلة المحوسب الجديد غير محلول": "",
-                " ملف اصدار 12 من بنك اسئلة المحوسب الجديد محلول": "",
+                " ملف اصدار 12 من بنك اسئلة المحوسب الجديد غير محلول": "https://drive.google.com/file/d/1UQk_fDLgyALGpwJ8QI-WY2tBSZwV2iQg/preview",
+                " ملف اصدار 12 من بنك اسئلة المحوسب الجديد محلول": "https://drive.google.com/file/d/1Gjz3Mqm2vdl3CgP7V7JiDqZ03fWfLLfE/preview",
                 "notes": {
                     "0": {
                         "type": "text",
@@ -678,21 +681,24 @@ const cardsContainer2 = {
                     }
                 },
                 " فيديو 1 اصدار 12": "http://www.youtube.com/embed/uH6a7ptUZbU",
-                " فيديو 2 اصدار 12": "http://www.youtube.com/embed/DpUcmIBFoT8"
+                " فيديو 2 اصدار 12": "http://www.youtube.com/embed/DpUcmIBFoT8",
+                " اختبار الاصدار 12": "./testPages/versions/exam-version-12/exam-version-12.html",  
             },
             "3": {
                 "tag": [
                     "file",
                     "file",
                     "video",
-                    "video"
+                    "video",
+                    "test"
                 ],
                 "title": "اصدار 13 بنك اسئلة قياس الجديد",
-                " ملف اصدار 13 بنك اسئلة قياس الجديد غير محلول": "",
-                " ملف اصدار 13 بنك اسئلة قياس الجديد محلول": "",
+                " ملف اصدار 13 بنك اسئلة قياس الجديد غير محلول": "https://drive.google.com/file/d/1iutOjYiXOiEeicIHG8s-UojBrp5Fh7Bw/preview",
+                " ملف اصدار 13 بنك اسئلة قياس الجديد محلول": "https://drive.google.com/file/d/1OXBnhs4ENgYEaFd-trfrJB-biORySOUl/preview",
                 "notes": {},
                 " فيديو 1 شرح اصدار 13": "http://www.youtube.com/embed/IvY7Z1BIcEw",
-                " فيديو 2 تابع شرح اصدار 13": "http://www.youtube.com/embed/I6kxOKp_es0"
+                " فيديو 2 تابع شرح اصدار 13": "http://www.youtube.com/embed/I6kxOKp_es0",
+                " اختبار الاصدار 13": "./testPages/versions/exam-version-13/exam-version-13.html",
             }
         }
     },
@@ -704,53 +710,60 @@ const cardsContainer2 = {
                     "file",
                     "file",
                     "video",
-                    "video"
+                    "video",
+                    "test",
                 ],
                 "title": "اصدار 14 من بنك اسئلة المحوسب الجديد",
-                " ملف اصدار 14 من بنك اسئلة المحوسب الجديد غير محلول": "",
-                " ملف اصدار 14 من بنك اسئلة المحوسب الجديد محلول": "",
+                " ملف اصدار 14 من بنك اسئلة المحوسب الجديد غير محلول": "https://drive.google.com/file/d/1JvzsKnKECtCN_jRZODOBxmDrvkzXWzpZ/preview",
+                " ملف اصدار 14 من بنك اسئلة المحوسب الجديد محلول": "https://drive.google.com/file/d/1RZmRZLoq7kn8zoLAK8V3dexXZrnXQCci/preview",
                 "notes": {},
                 " فيديو 1 اصدار 14": "http://www.youtube.com/embed/53VvgoWkrj0",
-                " فيديو 2 اصدار 14": "http://www.youtube.com/embed/iWY2S9T05l0"
+                " فيديو 2 اصدار 14": "http://www.youtube.com/embed/iWY2S9T05l0",
+                " اختبار الاصدار 14": "./testPages/versions/exam-version-14/exam-version-14.html", 
             },
             "1": {
                 "tag": [
                     "file",
                     "file",
                     "video",
-                    "video"
+                    "video",
+                    "test",
                 ],
                 "title": "اصدار 15 من بنك اسئلة المحوسب الجديد",
-                " ملف اصدار 15 من بنك اسئلة المحوسب الجديد غير محلول": "",
-                " ملف اصدار 15 من بنك اسئلة المحوسب الجديد محلول": "",
+                " ملف اصدار 15 من بنك اسئلة المحوسب الجديد غير محلول": "https://drive.google.com/file/d/1nZ3izzLKZFXS4l8Skr2JyFyf5tyUMLGA/preview",
+                " ملف اصدار 15 من بنك اسئلة المحوسب الجديد محلول": "https://drive.google.com/file/d/1Gijjxkroom_yOpXJnpHuE31zQ07G9FUJ/preview",
                 "notes": {},
                 " فيديو 1 الاصدار 15": "http://www.youtube.com/embed/zZvY0Petal4",
-                " فيديو 2 اصدار 15": "http://www.youtube.com/embed/zLORRNHYwIs"
+                " فيديو 2 اصدار 15": "http://www.youtube.com/embed/zLORRNHYwIs",
+                " اختبار الاصدار 15": "./testPages/versions/exam-version-15/exam-version-15.html",
             },
             "2": {
                 "tag": [
                     "file",
                     "file",
                     "video",
-                    "video"
+                    "video",
+                    "test",
                 ],
                 "title": "اصدار 16 من بنك اسئلة المحوسب الجديد",
-                " ملف اصدار 16 من بنك اسئلة المحوسب الجديد غير محلول": "",
-                " ملف اصدار 16 من بنك اسئلة المحوسب الجديد محلول": "",
+                " ملف اصدار 16 من بنك اسئلة المحوسب الجديد غير محلول": "https://drive.google.com/file/d/1CDI3BJuVxda7KT6QH_EenhRmBZWDODi8/preview",
+                " ملف اصدار 16 من بنك اسئلة المحوسب الجديد محلول": "https://drive.google.com/file/d/17x8hMk2dGq7dkqxtRs2pf10SBF-aKhvn/preview",
                 "notes": {},
                 " فيديو 1 اصدار 16": "http://www.youtube.com/embed/GQzLD8NFOBQ",
-                " فيديو 2 اصدار 16": "http://www.youtube.com/embed/PHMC6edFqXU"
+                " فيديو 2 اصدار 16": "http://www.youtube.com/embed/PHMC6edFqXU",
+                " اختبار الاصدار 16": "./testPages/versions/exam-version-16/exam-version-16.html",
             },
             "3": {
                 "tag": [
                     "file",
                     "file",
                     "video",
-                    "video"
+                    "video",
+                    "test",
                 ],
                 "title": "اصدار 17 من بنك اسئلة المحوسب الجديد",
-                " ملف اصدار 17 من بنك اسئلة المحوسب الجديد غير محلول": "",
-                " ملف اصدار 17 من بنك اسئلة المحوسب الجديد محلول": "",
+                " ملف اصدار 17 من بنك اسئلة المحوسب الجديد غير محلول": "https://drive.google.com/file/d/1CaNWctpLOfcArL4Nw1FagSxw9t-h6fTz/preview",
+                " ملف اصدار 17 من بنك اسئلة المحوسب الجديد محلول": "https://drive.google.com/file/d/12EOfzMx6utkLQKS4agpuue8lNNpxt1N_/preview",
                 "notes": {
                     "0": {
                         "type": "text",
@@ -774,18 +787,20 @@ const cardsContainer2 = {
                     }
                 },
                 " فيديو 1 اصدار 17": "http://www.youtube.com/embed/2Jc-3DcCeIQ",
-                " فيديو 2 تابع اصدار 17": "http://www.youtube.com/embed/4hHrwKJrF2k"
+                " فيديو 2 تابع اصدار 17": "http://www.youtube.com/embed/4hHrwKJrF2k",
+                " اختبار الاصدار 17": "./testPages/versions/exam-version-17/exam-version-17.html",
             },
             "4": {
                 "tag": [
                     "file",
                     "file",
                     "video",
-                    "video"
+                    "video",
+                    "test",
                 ],
                 "title": "اصدار 18 بنك اسئلة المحوسب الجديد",
-                " ملف اصدار 18 بنك اسئلة المحوسب الجديد غير محلول": "",
-                " ملف اصدار 18 بنك اسئلة المحوسب الجديد محلول": "",
+                " ملف اصدار 18 بنك اسئلة المحوسب الجديد غير محلول": "https://drive.google.com/file/d/1zj71RMcRwoO2DcCkQ5rZG233055RkmiO/preview",
+                " ملف اصدار 18 بنك اسئلة المحوسب الجديد محلول": "https://drive.google.com/file/d/1KeHpTMntMF9ZbX7AqfvEwSqF7L-q195V/preview",
                 "notes": {
                     "0": {
                         "type": "text",
@@ -797,7 +812,8 @@ const cardsContainer2 = {
                     }
                 },
                 " فيديو 1 شرح اصدار 18": "http://www.youtube.com/embed/Re2LYz1E6yc",
-                " فيديو 2 تابع شرح اصدار 18": "http://www.youtube.com/embed/KiikY17lFIc"
+                " فيديو 2 تابع شرح اصدار 18": "http://www.youtube.com/embed/KiikY17lFIc",
+                " اختبار الاصدار 18": "./testPages/versions/exam-version-18/exam-version-18.html",
             }
         }
     },
@@ -809,70 +825,80 @@ const cardsContainer2 = {
                     "file",
                     "file",
                     "video",
-                    "video"
+                    "video",
+                    "test",
                 ],
                 "title": "اصدار 19 من بنك المحوسب الجديد",
-                " ملف اصدار 19 من بنك المحوسب الجديد غير محلول": "",
-                " ملف اصدار 19 من بنك المحوسب الجديد محلول": "",
+                " ملف اصدار 19 من بنك المحوسب الجديد غير محلول": "https://drive.google.com/file/d/1ze4EAJLBJYIhT2Ap9DZQTLpQeACcFLAl/preview",
+                " ملف اصدار 19 من بنك المحوسب الجديد محلول": "https://drive.google.com/file/d/1TXT-v1zB6VoFheafSZp022ZHvq8mFYvU/preview",
                 "notes": {},
                 " فيديو 1 شرح اصدار 19": "http://www.youtube.com/embed/VGf0dKAmqMY",
-                " فيديو 2 اصدار 19": "http://www.youtube.com/embed/R2J32T-5q9c"
+                " فيديو 2 اصدار 19": "http://www.youtube.com/embed/R2J32T-5q9c",
+                " اختبار الاصدار 19": "./testPages/versions/exam-version-19/exam-version-19.html",
             },
             "1": {
                 "tag": [
                     "file",
                     "file",
                     "video",
-                    "video"
+                    "video",
+                    "test",
                 ],
                 "title": "اصدار 20",
-                " ملف اصدار 20 غير محلول": "",
-                " ملف اصدار 20 محلول": "",
+                " ملف اصدار 20 غير محلول": "https://drive.google.com/file/d/1vTwo9gJAgezE99fP3J66cE2ThTckKrJ9/preview",
+                " ملف اصدار 20 محلول": "https://drive.google.com/file/d/1YCjtejcaEzHCMN98cD7fLBObm3mzA2Pj/preview",
                 "notes": {},
                 " فيديو 1 اصدار 20": "http://www.youtube.com/embed/2oZy157Q5nY",
-                " فيديو 2 اصدار 20": "http://www.youtube.com/embed/qNkBL-HqvCM"
+                " فيديو 2 اصدار 20": "http://www.youtube.com/embed/qNkBL-HqvCM",
+                " اختبار الاصدار 20": "./testPages/versions/exam-version-20/exam-version-20.html",
             },
             "2": {
                 "tag": [
                     "file",
                     "file",
                     "video",
-                    "video"
+                    "video",
+                    "test",
                 ],
                 "title": "اصدار 21",
-                " ملف اصدار 21 غير محلول": "",
-                " ملف اصدار 21 محلول": "",
+                " ملف اصدار 21 غير محلول": "https://drive.google.com/file/d/1-oGMreNpnwLede504sTzA4BnuF9XMZVn/preview",
+                " ملف اصدار 21 محلول": "https://drive.google.com/file/d/1fI0m32ibWgxHHB-pPUonkgdvZLHTkTiD/preview",
                 "notes": {},
                 " فيديو 1 اصدار 21": "http://www.youtube.com/embed/6LolhiBJ7MY",
-                " فيديو 2 اصدار 21": "http://www.youtube.com/embed/XHRuG9ScFRk"
+                " فيديو 2 اصدار 21": "http://www.youtube.com/embed/XHRuG9ScFRk",
+                " اختبار الاصدار 21": "./testPages/versions/exam-version-21/exam-version-21.html",
             },
             "3": {
                 "tag": [
                     "file",
                     "file",
                     "video",
-                    "video"
+                    "video",
+                    "test",
                 ],
                 "title": "اصدار 22",
-                " ملف اصدار 22 غير محلول": "",
-                " ملف اصدار 22 محلول": "",
+                " ملف اصدار 22 غير محلول": "https://drive.google.com/file/d/1mHjMdRploOAHlshfQmj-_huOYP4O00Q9/preview",
+                " ملف اصدار 22 محلول": "https://drive.google.com/file/d/1z4_HT9B5WxCd_p6t9_QA9YxK0k92fxvc/preview",
                 "notes": {},
                 " فيديو 1اصدار 22": "http://www.youtube.com/embed/0ATgd41_6UA",
-                " فيديو 2 اصدار 22": "http://www.youtube.com/embed/-7qDwXtX20Q"
+                " فيديو 2 اصدار 22": "http://www.youtube.com/embed/-7qDwXtX20Q",
+                " اختبار الاصدار 22": "./testPages/versions/exam-version-22/exam-version-22.html", 
             },
             "4": {
                 "tag": [
                     "file",
                     "file",
                     "video",
-                    "video"
+                    "video",
+                    "test",
                 ],
                 "title": "اصدار 23",
-                " ملف اصدار 23 غير محلول": "",
-                " ملف اصدار 23 محلول": "",
+                " ملف اصدار 23 غير محلول": "https://drive.google.com/file/d/1CbPHI_puMzf4BjmeI3Yv8Zvsndd96etY/preview",
+                " ملف اصدار 23 محلول": "https://drive.google.com/file/d/1is89rF8_JHiVT2fvtxfl8rEDcBKZ7A2n/preview",
                 "notes": {},
                 " فيديو 1 صدار 23": "http://www.youtube.com/embed/IRiyFhQyP0o",
-                " فيديو 2 اصدار 23": "http://www.youtube.com/embed/GqFZq06AV4Y"
+                " فيديو 2 اصدار 23": "http://www.youtube.com/embed/GqFZq06AV4Y",
+                " اختبار الاصدار 23": "./testPages/versions/exam-version-23/exam-version-23.html",
             }
         }
     },
@@ -884,70 +910,80 @@ const cardsContainer2 = {
                     "file",
                     "file",
                     "video",
-                    "video"
+                    "video",
+                    "test",
                 ],
                 "title": "اصدار 24",
-                " ملف اصدار 24 غير محلول": "",
-                " ملف اصدار 24 محلول": "",
+                " ملف اصدار 24 غير محلول": "https://drive.google.com/file/d/1HnDu_g_6IxWp0IoEtxX4K7xE1MO55qvs/preview",
+                " ملف اصدار 24 محلول": "https://drive.google.com/file/d/1uWEPEbu5W3FRdRzkyXH4V4FQRs__0QaG/preview",
                 "notes": {},
                 " فيديو 1 اصدار 24": "http://www.youtube.com/embed/omxdjozk_w8",
-                " فيديو 2 اصدار 24": "http://www.youtube.com/embed/_SzqYueaRKQ"
+                " فيديو 2 اصدار 24": "http://www.youtube.com/embed/_SzqYueaRKQ",
+                " اختبار الاصدار 24": "./testPages/versions/exam-version-24/exam-version-24.html",
             },
             "1": {
                 "tag": [
                     "file",
                     "file",
                     "video",
-                    "video"
+                    "video",
+                    "test",
                 ],
                 "title": "اصدار 25",
-                " ملف اصدار 25 غير محلول": "",
-                " ملف اصدار 25 محلول": "",
+                " ملف اصدار 25 غير محلول": "https://drive.google.com/file/d/1JaShq3LX_OV9b1LXOzjkaV_y7uST8zv6/preview",
+                " ملف اصدار 25 محلول": "https://drive.google.com/file/d/12h37HdYLejXFQXQzI9ciE0jK94t9LmII/preview",
                 "notes": {},
                 " فيديو 1 اصدار 25": "http://www.youtube.com/embed/iSOAgduLec0",
-                " فيديو 2 اصدار 25": "http://www.youtube.com/embed/v8dDf6ZFEOE"
+                " فيديو 2 اصدار 25": "http://www.youtube.com/embed/v8dDf6ZFEOE",
+                " اختبار الاصدار 25": "./testPages/versions/exam-version-25/exam-version-25.html",
             },
             "2": {
                 "tag": [
                     "file",
                     "file",
                     "video",
-                    "video"
+                    "video",
+                    "test",
                 ],
                 "title": "اصدار 26",
-                " ملف اصدار 26 غير محلول": "",
-                " ملف اصدار 26 محلول": "",
+                " ملف اصدار 26 غير محلول": "https://drive.google.com/file/d/1n2lVGcqQLIVGVnukFgJ79GpW9uMzl0fj/preview",
+                " ملف اصدار 26 محلول": "https://drive.google.com/file/d/19EjtClUNAiAVqYW0qZTp3oBrtZzXWMQp/preview",
                 "notes": {},
                 " فيديو 1 اصدار 26": "http://www.youtube.com/embed/Zr6QTPDfQEY",
-                " فيديو 2 اصدار 26": "http://www.youtube.com/embed/QWslQ1d_1H8"
+                " فيديو 2 اصدار 26": "http://www.youtube.com/embed/QWslQ1d_1H8",
+                " اختبار الاصدار 26": "./testPages/versions/exam-version-26/exam-version-26.html",
             },
             "3": {
                 "tag": [
                     "file",
                     "file",
                     "video",
-                    "video"
+                    "video",
+                    "test",
                 ],
                 "title": "اصدار 27",
-                " ملف اصدار 27 غير محلول": "",
-                " ملف اصدار 27 محلول": "",
+                " ملف اصدار 27 غير محلول": "https://drive.google.com/file/d/1CKNL8Jw9_Lt6gHbnnUk-9SO_6R6qgrIl/preview",
+                " ملف اصدار 27 محلول": "https://drive.google.com/file/d/1D2o2-6YSFVlFEGitpQBtpjXdhOaqS08A/preview",
                 "notes": {},
                 " فيديو 1 اصدار 27": "http://www.youtube.com/embed/KEbWBSSTf54",
-                " فيديو 2 اصدار 27": "http://www.youtube.com/embed/mdbkIZwje_M"
+                " فيديو 2 اصدار 27": "http://www.youtube.com/embed/mdbkIZwje_M",
+                " اختبار الاصدار 27": "./testPages/versions/exam-version-27/exam-version-27.html",
             },
             "4": {
                 "tag": [
                     "file",
                     "file",
                     "video",
-                    "video"
+                    "video",
+                    "test",
                 ],
                 "title": "اصدار 28",
-                " ملف اصدار 28 غير محلول": "",
-                " ملف اصدار 28 محلول": "",
+                " ملف اصدار 28 غير محلول": "https://drive.google.com/file/d/10xT6MmWOZbwhhzokXcvucehIBgws2pi9/preview",
+                " ملف اصدار 28 محلول": "https://drive.google.com/file/d/1HVU019FnmprLMD8kFSoOyb9dm8x__1sj/preview",
                 "notes": {},
                 " فيديو 1 اصدار 28": "http://www.youtube.com/embed/TYtTXvKJazY",
-                " فيديو 2 اصدار 28": "http://www.youtube.com/embed/tfTU3n00t00"
+                " فيديو 2 اصدار 28": "http://www.youtube.com/embed/tfTU3n00t00",
+                " اختبار الاصدار 28": "./testPages/versions/exam-version-28/exam-version-28.html",
             }
         }
     },
@@ -959,53 +995,60 @@ const cardsContainer2 = {
                     "file",
                     "file",
                     "video",
-                    "video"
+                    "video",
+                    "test",
                 ],
                 "title": "الاصدار 29",
-                " ملف الاصدار 29 غير محلول": "",
-                " ملف الاصدار 29 محلول": "",
+                " ملف الاصدار 29 غير محلول": "https://drive.google.com/file/d/160bvnTGDuY-vBayRwzOgkHhO7BAWLhnQ/preview",
+                " ملف الاصدار 29 محلول": "https://drive.google.com/file/d/1duHf1Pfi0Ynp-bx9dbKFrPIFd25tWAVI/preview",
                 "notes": {},
                 " فيديو 1 اصدار 29": "http://www.youtube.com/embed/5PxnWKAACCk",
-                " فيديو 2 اصدار 29": "http://www.youtube.com/embed/ahmobQd9P4A"
+                " فيديو 2 اصدار 29": "http://www.youtube.com/embed/ahmobQd9P4A",
+                " اختبار الاصدار 29": "./testPages/versions/exam-version-29/exam-version-29.html",
             },
             "1": {
                 "tag": [
                     "file",
                     "file",
                     "video",
-                    "video"
+                    "video",
+                    "test",
                 ],
                 "title": "اصدار 30",
-                " ملف اصدار 30 غير محلول": "",
-                " ملف اصدار 30 محلول": "",
+                " ملف اصدار 30 غير محلول": "https://drive.google.com/file/d/13YxeqHE7Uo1eE9ckJaDj2H-q2gEe7Rpc/preview",
+                " ملف اصدار 30 محلول": "https://drive.google.com/file/d/173DbWGRBaArjoD9sTB89bLwae4-h0FEz/preview",
                 "notes": {},
                 " فيديو 1 اصدار 30": "http://www.youtube.com/embed/RMy0J01L6N8",
-                " فيديو 2 اصدار 30": "http://www.youtube.com/embed/j25oOsk7-nY"
+                " فيديو 2 اصدار 30": "http://www.youtube.com/embed/j25oOsk7-nY",
+                " اختبار الاصدار 30": "./testPages/versions/exam-version-30/exam-version-30.html",
             },
             "2": {
                 "tag": [
                     "file",
                     "file",
                     "video",
-                    "video"
+                    "video",
+                    "test",
                 ],
                 "title": "اصدار 31",
-                " ملف اصدار 31 غير محلول": "",
-                " ملف اصدار 31 محلول": "",
+                " ملف اصدار 31 غير محلول": "https://drive.google.com/file/d/1T5lNg5HWjXS04i2Gp4eLkimazuw2KInT/preview",
+                " ملف اصدار 31 محلول": "https://drive.google.com/file/d/1M594iHyOyrCnuLlLqlVQ-H-2jJ-FhOSI/preview",
                 "notes": {},
                 " فيديو 1 اصدار 31": "http://www.youtube.com/embed/Yq1ToH__iDk",
-                " فيديو 2 اصدار 31": "http://www.youtube.com/embed/a9UYBIokda4"
+                " فيديو 2 اصدار 31": "http://www.youtube.com/embed/a9UYBIokda4",
+                " اختبار الاصدار 31": "./testPages/versions/exam-version-31/exam-version-31.html",
             },
             "3": {
                 "tag": [
                     "file",
                     "file",
                     "video",
-                    "video"
+                    "video",
+                    "test",
                 ],
                 "title": "اصدار 32",
-                " ملف اصدار 32 غير محلول": "",
-                " ملف اصدار 32 محلول": "",
+                " ملف اصدار 32 غير محلول": "https://drive.google.com/file/d/1lheYcPso98atJ5GkxOkqieQRKBhQdGT5/preview",
+                " ملف اصدار 32 محلول": "https://drive.google.com/file/d/1gfIXaA5DFHGfc9CwigC5uGAYMoFZMiyM/preview",
                 "notes": {
                     "0": {
                         "type": "text",
@@ -1017,7 +1060,8 @@ const cardsContainer2 = {
                     }
                 },
                 " فيديو 1 اصدار 32": "http://www.youtube.com/embed/RPX90lu4bKc",
-                " فيديو 2 اصدار 32": "http://www.youtube.com/embed/6PUD-2_A8WQ"
+                " فيديو 2 اصدار 32": "http://www.youtube.com/embed/6PUD-2_A8WQ",
+                " اختبار الاصدار 32": "./testPages/versions/exam-version-32/exam-version-32.html",
             }
         }
     },
@@ -1029,53 +1073,59 @@ const cardsContainer2 = {
                     "file",
                     "file",
                     "video",
-                    "video"
+                    "video",
+                    "test",
                 ],
                 "title": "اصدار 33",
-                " ملف اصدار 33 غير محلول": "",
-                " ملف اصدار 33 محلول": "",
+                " ملف اصدار 33 غير محلول": "https://drive.google.com/file/d/1Dwsci8ZqytcAh8ASrqBBDHb7NiaRmv5E/preview",
+                " ملف اصدار 33 محلول": "https://drive.google.com/file/d/1Hw6bqKkUhvSxu8yLOb5DrTx8aNKA7Wr3/preview",
                 "notes": {},
                 " فيديو 1 اصدار 33": "http://www.youtube.com/embed/UcHYecdMtFA",
-                " فيديو 2 اصدار 33": "http://www.youtube.com/embed/Kk3Fm49n6ng"
+                " فيديو 2 اصدار 33": "http://www.youtube.com/embed/Kk3Fm49n6ng",
+                " اختبار الاصدار 33": "./testPages/versions/exam-version-33/exam-version-33.html",
             },
             "1": {
                 "tag": [
                     "file",
                     "file",
                     "video",
-                    "video"
+                    "video",
+                    "test",
                 ],
                 "title": "اصدار 34",
-                " ملف اصدار 34 غير محلول": "",
-                " ملف اصدار 34 محلول": "",
+                " ملف اصدار 34 غير محلول": "https://drive.google.com/file/d/1aIOI7_sb5vWloaGj4DCfM1Sy-g0Si3cd/preview",
+                " ملف اصدار 34 محلول": "https://drive.google.com/file/d/1Yxi92Pu5STPLVemh4IX35zpCEW-7tQlM/preview",
                 "notes": {},
                 " فيديو 1 اصدار 34": "http://www.youtube.com/embed/AVlAR4pbJng",
-                " فيديو 2 اصدار 2": "http://www.youtube.com/embed/zSiq3oOkdpw"
+                " فيديو 2 اصدار 34": "http://www.youtube.com/embed/zSiq3oOkdpw",
+                " اختبار الاصدار 34": "./testPages/versions/exam-version-34/exam-version-34.html",
             },
             "2": {
                 "tag": [
                     "file",
                     "file",
                     "video",
-                    "video"
+                    "video",
+                    "test",
                 ],
                 "title": "اصدار 35",
-                " ملف اصدار 35 غير محلول": "",
-                " ملف اصدار 35 محلول": "",
+                " ملف اصدار 35 غير محلول": "https://drive.google.com/file/d/1Amq124Mr7R55LZNF865OTXow4RhmKOeT/preview",
+                " ملف اصدار 35 محلول": "https://drive.google.com/file/d/1_UTL_EEt4wNXLgHBByAfMla8JxjhXnta/preview",
                 "notes": {},
                 " فيديو 1 اصدار 35": "http://www.youtube.com/embed/25e7-KfaalU",
-                " فيديو 2 اصدار 35": "http://www.youtube.com/embed/ips_xgKkI-E"
+                " فيديو 2 اصدار 35": "http://www.youtube.com/embed/ips_xgKkI-E",
+                " اختبار الاصدار 35": "./testPages/versions/exam-version-35/exam-version-35.html",
             },
             "3": {
                 "tag": [
                     "file",
                     "file",
                     "video",
-                    "video"
+                    "video",
                 ],
                 "title": "اصدار 36",
-                " ملف اصدار 36 غير محلول": "",
-                " ملف اصدار 36 محلول": "",
+                " ملف اصدار 36 غير محلول": "https://drive.google.com/file/d/1usjQlrwmQnaVcYMoodDLIzpcAey6XO50/preview",
+                " ملف اصدار 36 محلول": "https://drive.google.com/file/d/13Vg3XBfHAa0yYOu8UN4flbEeF_wXPNAX/preview",
                 "notes": {},
                 " فيديو 1 اصدار 36": "http://www.youtube.com/embed/2OCb2Hvih3w",
                 " فيديو 2 اصدار 36": "http://www.youtube.com/embed/QJk-qrCpdc0"
