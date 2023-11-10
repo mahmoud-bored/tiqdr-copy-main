@@ -478,7 +478,7 @@ const cardsContainer2 = {
                 "اختبار على الإصدار الثاني": "./testPages/versions/exam-version-2/exam-version-2.htm",
             },
             "2": {
-                "tag": ["file", "file", "video", "video"],
+                "tag": ["file", "file", "video", "video", "test"],
                 "title": "الاصدار الثالث من بنك اسئلة قياس الجديد",
                 "notes": {},
                 "ملف الاصدار الثالث من بنك اسئلة قياس الجديد غير محلول": "https://drive.google.com/file/d/1PP8ynv90wgPnOZMtGZHguHLPhpLAkgfc/preview",
