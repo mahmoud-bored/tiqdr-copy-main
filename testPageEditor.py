@@ -1,5 +1,5 @@
-for i in range(11, 36):
-    pageSrc = f"./testPages/versions/exam-version-{i}/exam-version-{i}.html"
+for i in range(37, 41):
+    pageSrc = f"./testPages/versions/exam-version-{i}/exam-version-{i}.htm"
     with open(pageSrc, 'rb+') as fh:
         fh.seek(-15, 2)
         fh.truncate()

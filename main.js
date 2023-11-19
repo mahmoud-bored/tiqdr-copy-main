@@ -1132,6 +1132,75 @@ const cardsContainer2 = {
             }
         }
     },
+    card10: {
+        title: "الإصدارات من 37 إلى 40",
+        sections: {
+            "0": {
+                "tag": [
+                "file",
+                "file",
+                "video",
+                "video",
+                "test",
+                ],
+                "title": "الاصدار 37 من بنك اسئلة المحوسب الجديدة",
+                " ملف الاصدار 37 من بنك اسئلة المحوسب الجديدة غير محلول": "https://drive.google.com/file/d/1BS3mXkmwfBmcalDbBQH7XaNIDym8dprO/preview",
+                " ملف الاصدار 37 من بنك اسئلة المحوسب الجديدة محلول": "https://drive.google.com/file/d/1lmPugh5WO1nyO_0412L-iAPpIY7Z95N9/preview",
+                "notes": {},
+                " فيديو 1 اصدار 37": "https://www.youtube.com/embed/q_AgpK9ODds",
+                " فيديو 2 اصدار 37": "https://www.youtube.com/embed/HkrLwqTHnXs",
+                "اختبار الإصدار 37": "./testPages/versions/exam-version-37/exam-version-37.htm",
+            },
+            "1": {
+                "tag": [
+                "file",
+                "file",
+                "video",
+                "video",
+                "test",
+                ],
+                "title": "اصدار 38",
+                " ملف اصدار 38 غير محلول": "https://drive.google.com/file/d/1RkWnZpQHHxrK9p6vSlx1yhlvK4Jl_Qm-/preview",
+                " ملف اصدار 38 محلول": "https://drive.google.com/file/d/1cnr9w831MuXYKc0qsMAjQc9A-iF-tS_X/preview",
+                "notes": {},
+                " فيديو 1 اصدار 38": "https://www.youtube.com/embed/8SFkQRukDik",
+                " فيديو 2 اصدار 38": "https://www.youtube.com/embed/xvA1oaTak6w",
+                "اختبار الإصدار 38": "./testPages/versions/exam-version-38/exam-version-38.htm",
+            },
+            "2": {
+                "tag": [
+                "file",
+                "file",
+                "video",
+                "video",
+                "test",
+                ],
+                "title": "اصدار 39",
+                " ملف اصدار 39 غير محلول": "https://drive.google.com/file/d/1ZIYcp_xxAmPK776FWVyg5rVY-5HUEJC_/preview",
+                " ملف اصدار 39 محلول": "https://drive.google.com/file/d/1sZkPp4CwfxjE76D728U--1hnqNb0odIF/preview",
+                "notes": {},
+                " فيديو 1 اصدار 39": "https://www.youtube.com/embed/Hvhb6_X1QGs",
+                " فيديو 2 اصدار 39": "https://www.youtube.com/embed/xclLCJoBzz8",
+                "اختبار الإصدار 39": "./testPages/versions/exam-version-39/exam-version-39.htm",
+            },
+            "3": {
+                "tag": [
+                "file",
+                "file",
+                "video",
+                "video",
+                "test",
+                ],
+                "title": "اصدار 40",
+                " ملف اصدار 40 غير محلول": "",
+                " ملف اصدار 40 محلول": "",
+                "notes": {},
+                " فيديو 1 اصدار 40": "https://www.youtube.com/embed/mGtxzfDoolM",
+                " فيديو 2 اصدار 40": "https://www.youtube.com/embed/I9uwxyUvRFY",
+                "اختبار الإصدار 40": "./testPages/versions/exam-version-40/exam-version-40.htm",
+            }
+        }
+    }
 }
 
 

@@ -89,7 +89,7 @@ document.querySelectorAll('.col-lg-7.col-md-7.col-md-12.col-sm-12.col-12').forEa
     // Button Title
     const buttonTitle = buttonElmnt.innerText.replace('play_circle_outline\n', '')
     // Button URL
-		const buttonVideoUrl = `http://www.youtube.com/embed/${buttonElmnt.getAttribute('data-video-id')}`
+		const buttonVideoUrl = `https://www.youtube.com/embed/${buttonElmnt.getAttribute('data-video-id')}`
     sections[sectionIndex][" " + buttonTitle] = buttonVideoUrl
     sections[sectionIndex]['tag'].push("video")
   })
