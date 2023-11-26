@@ -1192,12 +1192,23 @@ const cardsContainer2 = {
                 "test",
                 ],
                 "title": "اصدار 40",
-                " ملف اصدار 40 غير محلول": "",
-                " ملف اصدار 40 محلول": "",
+                " ملف اصدار 40 غير محلول": "https://drive.google.com/file/d/1ISGI1Jm-60D0_JHUJFJQXxPhfKvQxhh7/preview",
+                " ملف اصدار 40 محلول": "https://drive.google.com/file/d/1TvpBzaCzA0_eDMstvOK_BlR30cJ039qd/preview",
                 "notes": {},
                 " فيديو 1 اصدار 40": "https://www.youtube.com/embed/mGtxzfDoolM",
                 " فيديو 2 اصدار 40": "https://www.youtube.com/embed/I9uwxyUvRFY",
                 "اختبار الإصدار 40": "./testPages/versions/exam-version-40/exam-version-40.htm",
+            }
+        }
+    },
+    card11: {
+        title: "ملخص الرسومات البيانية",
+        sections: {
+            0: {
+                "tag": ["test"],
+                "title": "جميع الرسومات البيانية في المحوسب",
+                "notes": {},
+                "جميع الرسومات البيانية في المحوسب": "./testPages/charts-exam-1.htm",
             }
         }
     }
@@ -1229,15 +1240,6 @@ const cardsContainer2 = {
 //
 
 const cardsContainer3 = {
-    card1: {
-        title: "باقة ملخص الرسومات البيانية",
-        sections: {
-            0: {
-                tag: [],
-                title: "NaN"
-            }
-        }
-    },
     card2: {
         title: "نماذج 1 إلى 10",
         sections: {
